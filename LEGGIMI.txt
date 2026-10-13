@@ -1,0 +1,4 @@
+Qui va il file con l'elenco delle scuole del Friuli Venezia Giulia: scuole_fvg.csv
+
+Il programma lo legge ogni volta che parte. Va aggiornato una volta all'anno
+(a settembre, quando il Ministero pubblica l'anagrafe del nuovo anno scolastico).

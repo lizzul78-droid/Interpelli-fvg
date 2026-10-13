@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Interpelli Friuli Venezia Giulia</title>
+<meta name="description" content="Gli interpelli delle scuole del Friuli Venezia Giulia, in un posto solo.">
+<meta name="theme-color" content="#14213D">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F5F6F8;--card:#fff;--ink:#14213D;--mute:#5B6478;--line:#DDE1E8;--mark:#FFD23F;--acc:#1F4FD8;--onacc:#fff;--warn:#B42318;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root{--bg:#0E1424;--card:#171F35;--ink:#EEF1F8;--mute:#9AA4BC;--line:#2A3452;--acc:#7FA2FF;--onacc:#0E1424;--warn:#FF8A7A}}
+*{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.45 Figtree,system-ui,sans-serif}
+main{max-width:560px;margin:0 auto;padding:16px 16px 48px}
+h1{font-size:30px;line-height:1.05;font-weight:800;margin:8px 0 4px;letter-spacing:-.02em}
+h1 span{background:linear-gradient(transparent 58%,var(--mark) 58%,var(--mark) 92%,transparent 92%)}
+.sub{color:var(--mute);margin:0 0 14px;font-size:14px}
+.info{border:1px solid var(--line);border-radius:12px;background:var(--card);padding:10px 12px;margin-bottom:14px;font-size:14px}
+.info summary{font-weight:600;cursor:pointer}
+.info p{margin:8px 0 0;color:var(--mute)}
+.tabs{display:flex;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px;margin-bottom:12px}
+.tab{flex:1;font:600 15px Figtree,sans-serif;border:0;background:none;color:var(--mute);border-radius:9px;padding:9px 6px;cursor:pointer}
+.tab[aria-selected="true"]{background:var(--ink);color:var(--bg)}
+.row{display:flex;gap:8px;margin-bottom:10px}
+input,select{font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:11px 12px;min-width:0}
+input{flex:1}
+select{flex:1;font-size:15px}
+:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+.chips{display:flex;gap:6px;overflow-x:auto;padding-bottom:6px;margin-bottom:10px}
+.chip{font:600 14px Figtree,sans-serif;white-space:nowrap;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:99px;padding:7px 14px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.count{font-size:14px;color:var(--mute);margin:6px 0 10px}
+.school{background:var(--card);border:1px solid var(--line);border-radius:14px;margin-bottom:10px;overflow:hidden}
+.school>summary{list-style:none;cursor:pointer;padding:12px 14px;display:flex;justify-content:space-between;gap:10px;align-items:center}
+.school>summary::-webkit-details-marker{display:none}
+.sname{font-weight:800;font-size:17px;line-height:1.2}
+.loc{font-size:13px;color:var(--mute)}
+.badge{background:var(--ink);color:var(--bg);font-weight:800;font-size:13px;border-radius:99px;min-width:26px;text-align:center;padding:2px 8px}
+.item{padding:12px 14px;border-top:1px solid var(--line)}
+.title{font-weight:600;font-size:16px;line-height:1.3;margin:0 0 6px}
+.meta{font-size:14px;color:var(--mute);margin:0 0 4px}
+.dl{font-weight:600}.dl.soon{color:var(--warn)}
+.new{background:var(--mark);color:#14213D;font-weight:800;font-size:12px;border-radius:6px;padding:2px 7px;margin-left:6px;white-space:nowrap}
+.pill{border:1px solid var(--line);font-weight:600;font-size:12px;border-radius:6px;padding:2px 7px;white-space:nowrap}
+.src{font-size:13px;margin:6px 0 10px;color:var(--mute)}
+.acts{display:flex;gap:8px;flex-wrap:wrap}
+.go{flex:1;min-width:140px;text-align:center;background:var(--acc);color:var(--onacc);font-weight:700;text-decoration:none;border-radius:10px;padding:10px}
+.go.sec{background:none;color:var(--ink);border:1px solid var(--line)}
+.save{width:44px;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:10px;font-size:20px;cursor:pointer}
+.note{font-size:14px;margin:0 0 12px;padding:8px 10px;border-left:3px solid var(--acc);background:color-mix(in srgb,var(--acc) 8%,transparent)}
+.empty{text-align:center;color:var(--mute);padding:30px 10px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;margin-bottom:10px}
+.card .acts{margin-top:10px}
+footer{font-size:13px;color:var(--mute);margin-top:22px}
+footer a{color:var(--acc)}
+</style>
+</head>
+<body>
+<main>
+<h1><span>Interpelli</span> Friuli Venezia Giulia</h1>
+<p class="sub" id="agg">Carico i dati…</p>
+
+<details class="info">
+<summary>Come funziona e cosa non fa</summary>
+<p>Il programma controlla ogni giorno i siti e gli albi pubblici delle scuole e raccoglie gli avvisi di interpello. Ti candidi sempre dal sito ufficiale della scuola.</p>
+<p>Non può vedere tutto: alcune scuole pubblicano su servizi che non si possono leggere in automatico. Per quelle trovi il link all'albo nella scheda «Albi e pagine». Gli avvisi possono essere cambiati o già coperti: controlla sempre l'avviso originale.</p>
+<p>Su telefono: dal menu del browser scegli «Aggiungi a schermata Home» e si apre come un'app.</p>
+</details>
+
+<div class="tabs" role="tablist">
+<button class="tab" role="tab" data-t="int" aria-selected="true">Interpelli</button>
+<button class="tab" role="tab" data-t="albi" aria-selected="false">Albi e pagine</button>
+</div>
+<div class="row"><input id="q" type="search" placeholder="Cerca scuola, comune, classe di concorso…" aria-label="Cerca"></div>
+<div class="row"><select id="prov" aria-label="Provincia"></select></div>
+<div class="chips" id="chips"></div>
+<div class="count" id="count"></div>
+<div id="list"></div>
+
+<footer id="foot"></footer>
+</main>
+<script src="config.js"></script>
+<script>
+"use strict";
+const $=id=>document.getElementById(id);
+const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl=u=>/^https?:\/\//i.test(u||"")?u:"#";
+const norm=s=>String(s||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
+const PROV={UD:"Udine",TS:"Trieste",GO:"Gorizia",PN:"Pordenone"};
+const ROLES=["Tutti","Docenti","Sostegno","ATA","Nuovi","Salvati"];
+const CFG=window.CONFIG||{};
+let D={interpelli:[],pagine_interpelli:[],candidature_libere:[],albi_esterni:[]};
+let tab="int",role="Tutti",saved=new Set();
+try{saved=new Set(JSON.parse(localStorage.getItem("saved")||"[]"))}catch(e){}
+const persist=()=>{try{localStorage.setItem("saved",JSON.stringify([...saved]))}catch(e){}};
+
+function pulisci(t){
+  t=String(t||"").replace(/\s+/g," ").trim();
+  const lettere=t.replace(/[^A-Za-zÀ-ÿ]/g,""),maiusc=lettere.replace(/[^A-ZÀ-Þ]/g,"");
+  if(lettere.length>12&&maiusc.length/lettere.length>.6){
+    t=t.toLowerCase();t=t.charAt(0).toUpperCase()+t.slice(1);
+    t=t.replace(/\b([ab]\d{3})\b/g,x=>x.toUpperCase())
+       .replace(/\b(irc|ata|dsga|td|ti|aa|ee|admm|adee|adss|adaa|eeee|sspg|cpia|isis|om|o\.m\.)\b/g,x=>x.toUpperCase());
+  }
+  return t.length>170?t.slice(0,167)+"…":t;
+}
+function scad(it){
+  if(!it.scadenza)return{txt:"Scadenza non indicata",cls:"",n:99999};
+  const d=new Date(it.scadenza+"T23:59:59"),n=Math.ceil((d-new Date())/864e5);
+  const lab=d.toLocaleDateString("it-IT",{day:"numeric",month:"long"});
+  const rel=n<=0?"oggi":n===1?"domani":"tra "+n+" giorni";
+  return{txt:"Scade il "+lab+" ("+rel+")",cls:n<=2?"soon":"",n:n};
+}
+const fonte=it=>/nuvola/i.test(it.trovato_in||"")?"Dall'albo Nuvola della scuola":"Dal sito della scuola";
+
+function chips(){
+  $("chips").style.display=tab==="int"?"flex":"none";
+  $("chips").innerHTML=ROLES.map(r=>'<button class="chip" aria-pressed="'+(r===role)+'" data-r="'+r+'">'+r+'</button>').join("");
+}
+function filtroComune(x){
+  const p=$("prov").value,q=norm($("q").value);
+  return(!p||x.provincia===p)&&(!q||norm((x.scuola||"")+" "+(x.comune||"")+" "+(x.titolo||"")).includes(q));
+}
+function gruppi(lista){
+  const m=new Map();
+  for(const it of lista){
+    const k=it.scuola+"|"+it.comune;
+    if(!m.has(k))m.set(k,{scuola:it.scuola,comune:it.comune,prov:it.provincia,items:[]});
+    m.get(k).items.push(it);
+  }
+  const arr=[...m.values()];
+  arr.forEach(g=>g.items.sort((a,b)=>scad(a).n-scad(b).n));
+  arr.sort((a,b)=>scad(a.items[0]).n-scad(b.items[0]).n||a.scuola.localeCompare(b.scuola));
+  return arr;
+}
+function cardAvviso(it){
+  const s=scad(it);
+  return '<article class="item"><p class="title">'+esc(pulisci(it.titolo))+(it.nuovo?'<span class="new">Nuovo</span>':"")+'</p>'
+   +'<p class="meta"><span class="dl '+s.cls+'">'+esc(s.txt)+'</span> · <span class="pill">'+esc(it.ruolo||"")+'</span></p>'
+   +'<p class="src">'+esc(fonte(it))+'</p>'
+   +'<div class="acts"><a class="go" href="'+esc(safeUrl(it.url))+'" target="_blank" rel="noopener">Apri l\'avviso</a>'
+   +'<button class="save" data-u="'+esc(it.url)+'" aria-label="Salva">'+(saved.has(it.url)?"★":"☆")+'</button></div></article>';
+}
+function renderInterpelli(){
+  const lista=D.interpelli.filter(it=>{
+    if(!filtroComune(it))return false;
+    if(it.scadenza&&scad(it).n<0)return false;
+    if(role==="Salvati")return saved.has(it.url);
+    if(role==="Nuovi")return !!it.nuovo;
+    return role==="Tutti"||it.ruolo===role;
+  });
+  const gs=gruppi(lista);
+  $("count").textContent=lista.length?lista.length+(lista.length===1?" interpello":" interpelli")+" in "+gs.length+(gs.length===1?" scuola":" scuole"):"";
+  $("list").innerHTML=gs.length?gs.map(g=>{
+    const first=scad(g.items[0]);
+    return '<details class="school"'+(g.items.length<=3?" open":"")+'><summary><div><div class="sname">'+esc(g.scuola)+'</div>'
+     +'<div class="loc">'+esc(g.comune)+" ("+esc(g.prov)+')'+(first.n<99999?" · prossima scadenza: "+esc(first.txt.replace("Scade il ","")):"")+'</div></div>'
+     +'<span class="badge">'+g.items.length+'</span></summary>'+g.items.map(cardAvviso).join("")+'</details>';
+  }).join(""):'<div class="empty">Nessun interpello con questi filtri.<br>Controlla anche la scheda «Albi e pagine»: molte scuole pubblicano lì.</div>';
+}
+function renderAlbi(){
+  const m=new Map();
+  const sc=(x)=>{const k=x.scuola+"|"+x.comune;if(!m.has(k))m.set(k,{scuola:x.scuola,comune:x.comune,prov:x.provincia,links:[]});return m.get(k)};
+  for(const a of D.albi_esterni||[]){
+    const extra=a.etichetta&&!/albo/i.test(a.etichetta)?" – "+a.etichetta:"";
+    sc(a).links.push({label:"Albo online ("+(a.provider||"esterno")+")"+extra,url:a.url,primary:true});
+  }
+  for(const a of D.pagine_interpelli||[])sc(a).links.push({label:"Pagina degli interpelli",url:a.url,primary:true});
+  for(const a of D.candidature_libere||[])sc(a).links.push({label:"Candidature libere (MAD)",url:a.url,primary:false});
+  const arr=[...m.values()].filter(filtroComune).sort((a,b)=>a.scuola.localeCompare(b.scuola));
+  $("count").textContent=arr.length?arr.length+(arr.length===1?" scuola":" scuole"):"";
+  $("list").innerHTML='<p class="note">Qui l\'app non legge gli avvisi: apri il link della scuola e controlla se ci sono interpelli aperti.</p>'
+   +(arr.length?arr.map(g=>'<article class="card"><div class="sname">'+esc(g.scuola)+'</div><div class="loc">'+esc(g.comune)+" ("+esc(g.prov)+')</div>'
+     +'<div class="acts">'+g.links.map(l=>'<a class="go'+(l.primary?"":" sec")+'" href="'+esc(safeUrl(l.url))+'" target="_blank" rel="noopener">'+esc(l.label)+'</a>').join("")+'</div></article>').join("")
+   :'<div class="empty">Nessuna scuola con questi filtri.</div>');
+}
+function render(){tab==="int"?renderInterpelli():renderAlbi()}
+
+function init(dati){
+  D=Object.assign(D,dati||{});
+  const quando=D.generato?new Date(D.generato+"Z"):null;
+  $("agg").textContent=quando&&!isNaN(quando)?"Aggiornato il "+quando.toLocaleDateString("it-IT",{day:"numeric",month:"long"})+" alle "+quando.toLocaleTimeString("it-IT",{hour:"2-digit",minute:"2-digit"}):"Dati non ancora disponibili: il primo aggiornamento è in preparazione.";
+  const provs=[...new Set([].concat(D.interpelli,D.albi_esterni,D.pagine_interpelli,D.candidature_libere).map(x=>x.provincia).filter(Boolean))].sort();
+  $("prov").innerHTML='<option value="">Tutte le province</option>'+provs.map(p=>'<option value="'+esc(p)+'">'+esc(PROV[p]||p)+'</option>').join("");
+  chips();render();
+}
+document.querySelector(".tabs").onclick=e=>{const b=e.target.closest(".tab");if(!b)return;tab=b.dataset.t;
+  document.querySelectorAll(".tab").forEach(t=>t.setAttribute("aria-selected",String(t===b)));chips();render()};
+$("chips").onclick=e=>{const b=e.target.closest(".chip");if(!b)return;role=b.dataset.r;chips();render()};
+$("list").onclick=e=>{const b=e.target.closest(".save");if(!b)return;const u=b.dataset.u;saved.has(u)?saved.delete(u):saved.add(u);persist();b.textContent=saved.has(u)?"★":"☆";if(role==="Salvati")render()};
+$("q").oninput=render;$("prov").onchange=render;
+
+$("foot").innerHTML='<p>Dati raccolti da albi e siti pubblici delle scuole. L\'app può sbagliare o non vedere tutto.</p>'
+  +(CFG.telegramUrl?'<p><a href="'+esc(CFG.telegramUrl)+'" target="_blank" rel="noopener">Ricevi i nuovi interpelli su Telegram</a></p>':"")
+  +(CFG.segnalaUrl?'<p><a href="'+esc(CFG.segnalaUrl)+'" target="_blank" rel="noopener">Segnala un errore</a></p>':"");
+
+fetch("data/interpelli.json",{cache:"no-cache"}).then(r=>r.json()).then(init).catch(()=>{$("agg").textContent="Non riesco a caricare i dati. Riprova tra poco.";init({})});
+if("serviceWorker" in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));
+</script>
+</body>
+</html>
