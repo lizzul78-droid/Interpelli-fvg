@@ -10,7 +10,7 @@ self.addEventListener("activate", e => {
 });
 self.addEventListener("fetch", e => {
   if (e.request.method !== "GET" || new URL(e.request.url).origin !== location.origin) return;
-  const dati = e.request.url.includes("/data/");
+  const dati = e.request.url.includes("interpelli.json");
   e.respondWith(
     fetch(e.request).then(r => {                       // prima la rete (dati sempre freschi)...
       const copia = r.clone();

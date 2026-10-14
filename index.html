@@ -200,7 +200,7 @@ $("foot").innerHTML='<p>Dati raccolti da albi e siti pubblici delle scuole. L\'a
   +(CFG.telegramUrl?'<p><a href="'+esc(CFG.telegramUrl)+'" target="_blank" rel="noopener">Ricevi i nuovi interpelli su Telegram</a></p>':"")
   +(CFG.segnalaUrl?'<p><a href="'+esc(CFG.segnalaUrl)+'" target="_blank" rel="noopener">Segnala un errore</a></p>':"");
 
-fetch("data/interpelli.json",{cache:"no-cache"}).then(r=>r.json()).then(init).catch(()=>{$("agg").textContent="Non riesco a caricare i dati. Riprova tra poco.";init({})});
+fetch("interpelli.json",{cache:"no-cache"}).then(r=>r.json()).then(init).catch(()=>{$("agg").textContent="Non riesco a caricare i dati. Riprova tra poco.";init({})});
 if("serviceWorker" in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));
 </script>
 </body>
