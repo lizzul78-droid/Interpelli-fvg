@@ -47,9 +47,9 @@ jobs:
         run: |
           CONTATTO="${CONTATTO:-tua@email.it}"
           if [ "${{ steps.modo.outputs.modo }}" = "nuvola" ]; then
-            python crawler_fvg.py --nuvola-only --out docs/data --email "$CONTATTO"
+            python crawler_fvg.py --nuvola-only --out . --email "$CONTATTO"
           else
-            python crawler_fvg.py --schools data/scuole_fvg.csv --nuvola --out docs/data --email "$CONTATTO"
+            python crawler_fvg.py --schools scuole_fvg.csv --nuvola --out . --email "$CONTATTO"
           fi
 
       - name: Novita e messaggi Telegram
@@ -59,9 +59,9 @@ jobs:
           APP_URL: ${{ vars.APP_URL }}
         run: |
           if [ "${{ steps.modo.outputs.modo }}" = "test-telegram" ]; then
-            python finalize.py docs/data --test
+            python finalize.py . --test
           else
-            python finalize.py docs/data
+            python finalize.py .
           fi
 
       - name: Salva i risultati
@@ -69,7 +69,7 @@ jobs:
         run: |
           git config user.name "interpelli-bot"
           git config user.email "interpelli-bot@users.noreply.github.com"
-          git add docs/data
+          git add interpelli.json seen.json
           if git diff --cached --quiet; then
             echo "Nessun cambiamento da salvare"
           else
