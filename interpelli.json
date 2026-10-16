@@ -1,20 +1,6 @@
 {
- "generato": "2026-10-16T18:36:57",
+ "generato": "2026-10-16T21:13:53",
  "interpelli": [
-  {
-   "url": "https://www.dijak.edu.it/documento/individuazione-personale-ata-2026-27/",
-   "scuola": "Ic San Giacomo-L.Ins.Slov.",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "2026 14 Sep 00028/2026 INDIVIDUAZIONE PERSONALE ATA 2026-27 INDIVIDUAZIONE PERSONALE ATA 2026-27",
-   "ruolo": "ATA",
-   "scadenza": "2027-08-31",
-   "trovato_in": "Spletna oglasna deska",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-09-14"
-  },
   {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/11123/documento/UDIC851001",
    "scuola": "Cividale Del Friuli",
@@ -828,6 +814,20 @@
    "primo_visto": "2026-09-14"
   },
   {
+   "url": "https://www.dijak.edu.it/documento/individuazione-personale-ata-2026-27/",
+   "scuola": "Ic San Giacomo-L.Ins.Slov.",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "2026 14 Sep 00028/2026 INDIVIDUAZIONE PERSONALE ATA 2026-27 INDIVIDUAZIONE PERSONALE ATA 2026-27",
+   "ruolo": "ATA",
+   "scadenza": "2027-08-31",
+   "trovato_in": "Spletna oglasna deska",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-09-14"
+  },
+  {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/7325/documento/UDIC842006",
    "scuola": "Ii - Udine",
    "comune": "Udine",
@@ -1605,6 +1605,16 @@
    "sito": "https://www.icvaltagliamento.it/"
   },
   {
+   "scuola": "Majano E Forgaria - Buja",
+   "comune": "Majano",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC85800Q/5/",
+   "sito": "https://www.6icudine.gov.it/"
+  },
+  {
    "scuola": "Pascoli Giovanni",
    "comune": "Cormons",
    "provincia": "GO",
@@ -1625,16 +1635,6 @@
    "sito": "https://comprensivosanvito.edu.it/"
   },
   {
-   "scuola": "I.S.I.S. \"S. Pertini\" Monfalcone",
-   "comune": "Monfalcone",
-   "provincia": "GO",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Spaggiari",
-   "etichetta": "Albo Online",
-   "url": "https://web.spaggiari.eu/sdg2/AlboOnline/GOII0006",
-   "sito": "https://www.isispertini.edu.it/"
-  },
-  {
    "scuola": "Ic Fontanafredda\"R.L.Montalcini",
    "comune": "Fontanafredda",
    "provincia": "PN",
@@ -1643,6 +1643,16 @@
    "etichetta": "",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/PNIC81100E/5/IN_PUBBLICAZIONE/0/show",
    "sito": "https://www.icfontanafredda.edu.it/"
+  },
+  {
+   "scuola": "I.S.I.S. \"S. Pertini\" Monfalcone",
+   "comune": "Monfalcone",
+   "provincia": "GO",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "Albo Online",
+   "url": "https://web.spaggiari.eu/sdg2/AlboOnline/GOII0006",
+   "sito": "https://www.isispertini.edu.it/"
   },
   {
    "scuola": "Don Lorenzo Milani - Aquileia",
@@ -1695,16 +1705,6 @@
    "sito": "https://www.iclignano.gov.it/"
   },
   {
-   "scuola": "Ic Zoppola",
-   "comune": "Zoppola",
-   "provincia": "PN",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Spaggiari",
-   "etichetta": "Albo online",
-   "url": "https://web.spaggiari.eu/sdg2/AlboOnline/pnme0013",
-   "sito": "https://www.iczoppola.edu.it/"
-  },
-  {
    "scuola": "Trasaghis",
    "comune": "Osoppo",
    "provincia": "UD",
@@ -1713,6 +1713,16 @@
    "etichetta": "Albo online",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC84500N/1/IN_PUBBLICAZIONE/0/show",
    "sito": "https://www.ictrasaghis.edu.it/"
+  },
+  {
+   "scuola": "Ic Zoppola",
+   "comune": "Zoppola",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "Albo online",
+   "url": "https://web.spaggiari.eu/sdg2/AlboOnline/pnme0013",
+   "sito": "https://www.iczoppola.edu.it/"
   },
   {
    "scuola": "Cecilia Deganutti - Latisana",
@@ -1725,16 +1735,6 @@
    "sito": "https://iclatisana.edu.it/"
   },
   {
-   "scuola": "Ist. Compr. San Giovanni",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Nuvola",
-   "etichetta": "Albo online",
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSIC812008/1",
-   "sito": "https://www.icsangiovanni.edu.it/"
-  },
-  {
    "scuola": "Ic Maniago \"Margherita Hack\"",
    "comune": "Vivaro",
    "provincia": "PN",
@@ -1743,6 +1743,16 @@
    "etichetta": "qui",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/PNIC82800X/7/IN_PUBBLICAZIONE/0/show",
    "sito": "https://www.icmaniago.it/"
+  },
+  {
+   "scuola": "Ist. Compr. San Giovanni",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSIC812008/1",
+   "sito": "https://www.icsangiovanni.edu.it/"
   },
   {
    "scuola": "\"Celso Macor\"",
@@ -1955,16 +1965,6 @@
    "sito": "https://www.ictavagnacco.edu.it/"
   },
   {
-   "scuola": "Ist. Compr. Tiziana Weiss",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Nuvola",
-   "etichetta": "Albo online",
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSIC80300D/1/IN_PUBBLICAZIONE/0/show",
-   "sito": "https://www.ictizianaweiss.gov.it/"
-  },
-  {
    "scuola": "Tarcento",
    "comune": "Nimis",
    "provincia": "UD",
@@ -1973,6 +1973,16 @@
    "etichetta": "Clicca qui per accedere all’albo on line",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC83000X/1",
    "sito": "https://www.ictarcento.edu.it/"
+  },
+  {
+   "scuola": "Ist. Compr. Tiziana Weiss",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSIC80300D/1/IN_PUBBLICAZIONE/0/show",
+   "sito": "https://www.ictizianaweiss.gov.it/"
   },
   {
    "scuola": "Isis Nautico T. Di Savoia - L. Galvani",
@@ -2035,16 +2045,6 @@
    "sito": "https://5icudine.edu.it/"
   },
   {
-   "scuola": "Isis Galilei-Cossar",
-   "comune": "Gorizia",
-   "provincia": "GO",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Spaggiari",
-   "etichetta": "ALBO ONLINE",
-   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=GOII0002",
-   "sito": "https://www.isisgo.it/"
-  },
-  {
    "scuola": "Liceo Scientifico \"N. Copernico\" Udine",
    "comune": "Udine",
    "provincia": "UD",
@@ -2055,6 +2055,26 @@
    "sito": "https://www.liceocopernico.edu.it/"
   },
   {
+   "scuola": "Isis Galilei-Cossar",
+   "comune": "Gorizia",
+   "provincia": "GO",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "ALBO ONLINE",
+   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=GOII0002",
+   "sito": "https://www.isisgo.it/"
+  },
+  {
+   "scuola": "Uccellis",
+   "comune": "Udine",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "Albo Online",
+   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=UDEF0002",
+   "sito": "https://www.educandatouccellis.edu.it/"
+  },
+  {
    "scuola": "Liceo Scientifico \"G. Marinelli\" Udine",
    "comune": "Udine",
    "provincia": "UD",
@@ -2063,6 +2083,16 @@
    "etichetta": "Albo Online",
    "url": "https://web.spaggiari.eu/sdg2/AlboOnline/UDLS0002",
    "sito": "https://www.liceomarinelli.edu.it/"
+  },
+  {
+   "scuola": "Istituto Magistrale Uccellis",
+   "comune": "Udine",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "Albo Online",
+   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=UDEF0002",
+   "sito": "https://www.educandatouccellis.edu.it/"
   },
   {
    "scuola": "Liceo Classico \"J. Stellini\" Udine",
@@ -2085,6 +2115,16 @@
    "sito": "https://www.paolosarpi.edu.it/"
   },
   {
+   "scuola": "Vi - Udine",
+   "comune": "Udine",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC85800Q/5/",
+   "sito": "https://www.6icudine.edu.it/"
+  },
+  {
    "scuola": "Iii - Udine",
    "comune": "Udine",
    "provincia": "UD",
@@ -2103,16 +2143,6 @@
    "etichetta": "Albo online",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC84100A/1",
    "sito": "https://1icudine.edu.it/"
-  },
-  {
-   "scuola": "Is G. Brignoli - L. Einaudi - G. Marconi",
-   "comune": "Gradisca D'Isonzo",
-   "provincia": "GO",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Spaggiari",
-   "etichetta": "Vai a \"Albo online\"",
-   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=goii0007",
-   "sito": "https://www.bem.goiss.edu.it/"
   },
   {
    "scuola": "Michelangelo Buonarroti",
@@ -2135,6 +2165,16 @@
    "sito": "https://www.dannunzio-fabiani.it/"
   },
   {
+   "scuola": "Convitto Cividale-Ic San Pietro",
+   "comune": "Cividale Del Friuli",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Albo esterno",
+   "etichetta": "https://albopretorio.nettunopa.it/srv/?u=cpiaudine&amn=11500",
+   "url": "https://albopretorio.nettunopa.it/srv/?u=cpiaudine&amn=115001",
+   "sito": "https://www.cnpd.it/"
+  },
+  {
    "scuola": "Francesco Petrarca",
    "comune": "Trieste",
    "provincia": "TS",
@@ -2153,7 +2193,253 @@
    "etichetta": "Albo online",
    "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=TSIM0003",
    "sito": "https://www.slomsek.edu.it/"
+  },
+  {
+   "scuola": "Educandato Uccellis",
+   "comune": "Udine",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "Albo Online",
+   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=UDEF0002",
+   "sito": "https://www.educandatouccellis.edu.it/"
   }
  ],
- "non_raggiungibili": []
+ "non_raggiungibili": [
+  {
+   "scuola": "Ist. Compr. Altipiano",
+   "sito": "https://www.icaltipiano.it/",
+   "motivo": "non raggiungibile (connessione fallita)"
+  },
+  {
+   "scuola": "Ist. Compr. Divisione Julia",
+   "sito": "https://www.ic-divisionejulia.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Ist. Compr. Marco Polo",
+   "sito": "https://www.icmarcopolots.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "I.I.S. \"G. Leopardi-E. Majorana\"",
+   "sito": "https://www.leomajor.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Grazia Deledda - Max Fabiani",
+   "sito": "https://www.deleddafabiani.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Randaccio Giovanni",
+   "sito": "https://www.icrandaccio.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Convitto Nazionale",
+   "sito": "https://www.cnpd.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Guglielmo Oberdan",
+   "sito": "https://www.liceo-oberdan.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Paschini - Linussio",
+   "sito": "https://paschinilinussio.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Galileo Galilei",
+   "sito": "https://www.galileitrieste.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Tina Modotti Di Premariacco",
+   "sito": "https://www.icpremariacco.it/",
+   "motivo": "non raggiungibile (connessione fallita)"
+  },
+  {
+   "scuola": "Giacich Ezio",
+   "sito": "https://icgiacich.edu.it/",
+   "motivo": "non raggiungibile (timeout)"
+  },
+  {
+   "scuola": "\"Universita' Castrense\"",
+   "sito": "https://www.icuniversitacastrense.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Ic Porcia \"Jacopo Di Porcia\"",
+   "sito": "https://www.icporcia.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "F.Preseren-L.Ins.Slovena",
+   "sito": "https://www.preseren.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Iis J. Linussio",
+   "sito": "https://www.linussio.gov.it/",
+   "motivo": "non raggiungibile (connessione fallita)"
+  },
+  {
+   "scuola": "Pagnacco - Martignacco",
+   "sito": "https://www.icpagnacco.gov.it/",
+   "motivo": "non raggiungibile (connessione fallita)"
+  },
+  {
+   "scuola": "Is E. Torricelli",
+   "sito": "https://www.torricellimaniago.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Ic Ascoli",
+   "sito": "https://www.icgorizia1.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Is G.A. Pujati",
+   "sito": "https://www.liceipujati.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Ist. Comp. Gemona Del Friuli",
+   "sito": "https://www.icgemona.gov.it/",
+   "motivo": "non raggiungibile (connessione fallita)"
+  },
+  {
+   "scuola": "Is Dante Alighieri",
+   "sito": "https://www.pololicealegorizia.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Ic Azzano Decimo\"N.Cantarutti\"",
+   "sito": "https://www.istcompazzanox.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Giovanni Xxiii - Tarvisio",
+   "sito": "https://wwwtarvisioscuole.it/",
+   "motivo": "non raggiungibile (connessione fallita)"
+  },
+  {
+   "scuola": "Deganutti",
+   "sito": "https://www.itsdeganutti.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Is V. Manzini",
+   "sito": "https://www.isismanzini.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Isis Bonaldo Stringher",
+   "sito": "https://www.stringher.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "I.S.I.S. Sacile - Brugnera",
+   "sito": "https://www.isissacilebrugnera.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Istituto Omnicomprensivo I. Bachmann",
+   "sito": "https://www.tarvisioscuole.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Lic.Scientif. Le Filandiere",
+   "sito": "https://www.liceilefilandiere.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Convitto Cividale-Ic San Pietro",
+   "sito": "https://www.cnpd.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "I.C. Meduna-Tagliamento-Casarsa",
+   "sito": "https://www.icmtc.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Ls M. Grigoletti",
+   "sito": "https://www.liceogrigoletti.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Ist. Compr. Giovanni Lucio",
+   "sito": "https://www.iclucio.gov.it/",
+   "motivo": "non raggiungibile (connessione fallita)"
+  },
+  {
+   "scuola": "Istituto Superiore \"E.Mattei\" Latisana",
+   "sito": "https://www.isislatisana.it/",
+   "motivo": "non raggiungibile (timeout)"
+  },
+  {
+   "scuola": "Ist. Compr. Rainer Maria Rilke",
+   "sito": "https://www.istduino.wordpress.com/",
+   "motivo": "non raggiungibile (certificato SSL non valido)"
+  },
+  {
+   "scuola": "Ic Cordenons \"Alberto Manzi\"",
+   "sito": "https://www.ic-manzi.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Liceo Artistico \"G. Sello \" Ud",
+   "sito": "https://www.arteudine.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Ipsia \"G. Ceconi\" Udine",
+   "sito": "https://www.gceconi.eu/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Ic Spilimbergo",
+   "sito": "https://www.icspilimbergo.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Liceo \"Caterina Percoto\"",
+   "sito": "https://www.liceopercoto.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Itst Kennedy",
+   "sito": "https://www.itstkennedy.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Liceo Artistico Statale Enrico Galvani",
+   "sito": "https://www.liceoartisticogalvani.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Istituto Istruzione Superiore F. Flora",
+   "sito": "https://www.istitutoflora.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Itg \"G.G. Marinoni\" Udine",
+   "sito": "https://www.itmarinoni.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "Isis Carducci - Dante",
+   "sito": "https://www.carduccidante.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  },
+  {
+   "scuola": "I.S.I.S. \"L. Zanussi\"",
+   "sito": "https://www.isiszanussi.edu.it/",
+   "motivo": "non raggiungibile (vietato da robots.txt)"
+  }
+ ]
 }
