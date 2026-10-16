@@ -82,6 +82,17 @@ EXCLUDE = re.compile(r"\bmodell[oi]\b|\bmodulo\b|fac.?simile|regolamento|criteri
                      r"assemble|sciopero|sindacal|\bRSU\b|\bUSB\b|\bFLC\b|\bCISL\b|\bUIL\b|\bGILDA\b|\bSNALS\b", re.I)
 # un titolo che COMINCIA con "Individuazione ..." di solito annuncia chi e' stato scelto (esito), non un avviso
 CLOSED_START = re.compile(r"^\W*individuazione\b(?!.*(?:avviso|interpell|disponibil|candidatur|domand))", re.I | re.S)
+# frasi tipiche di un ESITO scritte nel testo (prime righe) del documento
+CLOSED_TEXT = re.compile(
+    r"\besito\b|(?:è|e'|sono)\s+stat[aoi]\s+(?:individuat|assegnat|conferit|nominat)|"
+    r"\bha\s+accettato|\bha\s+individuato|"
+    r"si\s+comunica\s+(?:l.)?\s*(?:esito|individuazione|assegnazione)|"
+    r"\bindividuat[aoi]\s+(?:il|la|l.)?\s*(?:docente|supplente|candidat)", re.I)
+# frasi tipiche di un avviso ANCORA APERTO: se ci sono, non scartare
+OPEN_WORDS = re.compile(
+    r"entro\s+(?:e\s+non\s+oltre\s+)?(?:le\s+ore|il\s+giorno|il\b)|"
+    r"presentare\s+(?:la\s+)?(?:domanda|candidatur|disponibil)|"
+    r"i\s+docenti\s+interessati|gli\s+interessati|invitano?\b", re.I)
 ROLE_WORDS = re.compile(r"sostegno|docent|infanzia|primaria|secondaria|\bATA\b|collaborator|assistente|posto|cattedra", re.I)
 SECTION = re.compile(
     r"albo|bandi|avvisi|amministrazione.?trasparente|interpell|supplenz|reclutamento|"
@@ -372,6 +383,9 @@ def extract_text(ctype, data, url):
 
 def classify(hint, text):
     if CLOSED.search(hint) or CLOSED_START.search(hint):
+        return False
+    head = re.sub(r"\s+", " ", text[:600])
+    if CLOSED_TEXT.search(head) and not OPEN_WORDS.search(head):
         return False
     if STRONG.search(hint) or STRONG.search(text[:800]):
         return True
