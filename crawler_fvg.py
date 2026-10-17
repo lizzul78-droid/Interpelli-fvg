@@ -337,7 +337,7 @@ class Fetcher:
             path += "?" + p.query
         return robots_allows(rules, path)
 
-    def get(self, url, max_bytes=3_000_000):
+ def get(self, url, max_bytes=3_000_000):
         """Ritorna (url_finale, content_type, bytes) oppure None (motivo in self.err).
         Se il sito dice "troppe richieste" (429/503/509) aspetta e rallenta; se va in timeout riprova una volta."""
         self.err = ""
