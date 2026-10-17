@@ -271,6 +271,39 @@ def ref_date(text, url="", soup=None, hint="", last_modified=None, doc_date=None
 
 
 # ---------------------------------------------------------------- rete
+def parse_robots(text):
+    """Regole di robots.txt per il nostro bot (o per tutti): lista di (permesso, percorso)."""
+    groups, agents, in_rules = {}, [], False
+    for line in text.splitlines():
+        line = line.split("#", 1)[0].strip()
+        if ":" not in line:
+            continue
+        k, v = (x.strip() for x in line.split(":", 1))
+        k = k.lower()
+        if k == "user-agent":
+            if in_rules:
+                agents, in_rules = [], False
+            agents.append(v.lower())
+            groups.setdefault(v.lower(), [])
+        elif k in ("allow", "disallow") and agents:
+            in_rules = True
+            if v:
+                for ag in agents:
+                    groups[ag].append((k == "allow", v))
+    return groups.get("interpellibot") or groups.get("*") or []
+
+
+def robots_allows(rules, path):
+    """Vince la regola piu' lunga (la piu' specifica); capisce * e $."""
+    best_len, best_allow = -1, True
+    for allow, pat in rules:
+        rx = re.escape(pat).replace(r"\*", ".*")
+        if rx.endswith(r"\$"):
+            rx = rx[:-2] + "$"
+        if re.match(rx, path) and (len(pat) > best_len or (len(pat) == best_len and allow)):
+            best_len, best_allow = len(pat), allow
+    return best_allow
+
 class Fetcher:
     """Richieste educate: robots.txt e pausa tra una richiesta e l'altra."""
 
@@ -283,22 +316,26 @@ class Fetcher:
         self.err = ""
         self.last_modified = None
 
-    def allowed(self, url):
+ def allowed(self, url):
         p = urlparse(url)
         root = f"{p.scheme}://{p.netloc}"
-        rp = self.robots.get(root)
-        if rp is None:
-            rp = RobotFileParser()
+        rules = self.robots.get(root)
+        if rules is None:
+            rules = []
             try:
                 r = self.s.get(root + "/robots.txt", timeout=self.timeout)
-                rp.parse(r.text.splitlines() if r.status_code == 200 else [])
-                m = re.search(r"(?im)^\s*crawl-delay:\s*(\d+)", r.text) if r.status_code == 200 else None
-                if m:
-                    self.crawl_delay[root] = min(int(m.group(1)), 30)
+                if r.status_code == 200:
+                    rules = parse_robots(r.text)
+                    m = re.search(r"(?im)^\s*crawl-delay:\s*(\d+)", r.text)
+                    if m:
+                        self.crawl_delay[root] = min(int(m.group(1)), 30)
             except requests.RequestException:
-                rp.parse([])
-            self.robots[root] = rp
-        return rp.can_fetch(USER_AGENT, url)
+                pass
+            self.robots[root] = rules
+        path = p.path or "/"
+        if p.query:
+            path += "?" + p.query
+        return robots_allows(rules, path)
 
     def get(self, url, max_bytes=3_000_000):
         """Ritorna (url_finale, content_type, bytes) oppure None (motivo in self.err).
