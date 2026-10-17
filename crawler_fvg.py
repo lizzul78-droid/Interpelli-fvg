@@ -307,7 +307,7 @@ def robots_allows(rules, path):
 class Fetcher:
     """Richieste educate: robots.txt e pausa tra una richiesta e l'altra."""
 
-def __init__(self, delay, timeout):
+    def __init__(self, delay, timeout):
         self.s = requests.Session()
         self.s.headers["User-Agent"] = USER_AGENT
         self.delay, self.timeout, self.last = delay, timeout, 0.0
@@ -316,7 +316,7 @@ def __init__(self, delay, timeout):
         self.err = ""
         self.last_modified = None
 
-def allowed(self, url):
+    def allowed(self, url):
         p = urlparse(url)
         root = f"{p.scheme}://{p.netloc}"
         rules = self.robots.get(root)
@@ -337,7 +337,7 @@ def allowed(self, url):
             path += "?" + p.query
         return robots_allows(rules, path)
 
-def get(self, url, max_bytes=3_000_000):
+    def get(self, url, max_bytes=3_000_000):
         """Ritorna (url_finale, content_type, bytes) oppure None (motivo in self.err).
         Se il sito dice "troppe richieste" (429/503/509) aspetta e rallenta; se va in timeout riprova una volta."""
         self.err = ""
