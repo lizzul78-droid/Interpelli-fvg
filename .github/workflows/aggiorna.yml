@@ -74,6 +74,6 @@ jobs:
             echo "Nessun cambiamento da salvare"
           else
             git commit -m "Aggiornamento dati"
-            git pull --rebase
+            git pull --rebase -X theirs
             git push
           fi
