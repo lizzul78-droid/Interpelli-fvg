@@ -61,7 +61,60 @@ footer{font-size:13px;color:var(--mute);margin-top:22px}
 footer a{color:var(--acc)}
 </style>
 </head>
-<body>
+<style>
+#installBar{display:none;position:fixed;left:12px;right:12px;bottom:12px;z-index:9999;
+  background:#1f6feb;color:#fff;border-radius:12px;padding:12px 14px;font:15px/1.4 system-ui,sans-serif;
+  box-shadow:0 4px 16px rgba(0,0,0,.3)}
+#installBar button{font:inherit;border:0;border-radius:8px;padding:8px 12px;margin-top:8px;margin-right:8px;cursor:pointer}
+#installBar .ok{background:#fff;color:#1f6feb;font-weight:600}
+#installBar .no{background:transparent;color:#fff;text-decoration:underline}
+</style>
+<div id="installBar" role="dialog" aria-label="Installa l'app">
+  <div id="installText"></div>
+  <button class="ok" id="installBtn" style="display:none">Installa l'app</button>
+  <button class="no" id="installClose">Non ora</button>
+</div>
+<script>
+(function () {
+  var bar = document.getElementById("installBar");
+  var text = document.getElementById("installText");
+  var btn = document.getElementById("installBtn");
+  var deferred = null;
+
+  function stored(v) { try { return localStorage.getItem("installChiuso") === v; } catch (e) { return false; } }
+  function store() { try { localStorage.setItem("installChiuso", "1"); } catch (e) {} }
+
+  var installata = window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
+  if (installata || stored("1")) return;
+
+  var ua = navigator.userAgent || "";
+  var iOS = /iphone|ipad|ipod/i.test(ua);
+
+  document.getElementById("installClose").onclick = function () { bar.style.display = "none"; store(); };
+
+  // Android / Chrome: il browser avvisa quando l'app si puo' installare
+  window.addEventListener("beforeinstallprompt", function (e) {
+    e.preventDefault();
+    deferred = e;
+    text.textContent = "Installa Interpelli sul telefono per aprirla dalla schermata Home.";
+    btn.style.display = "inline-block";
+    bar.style.display = "block";
+  });
+  btn.onclick = function () {
+    if (!deferred) return;
+    deferred.prompt();
+    deferred.userChoice.then(function () { deferred = null; bar.style.display = "none"; });
+  };
+  window.addEventListener("appinstalled", function () { bar.style.display = "none"; });
+
+  // iPhone / iPad: istruzioni a mano
+  if (iOS) {
+    text.innerHTML = "Per avere l'app sulla schermata Home: tocca il pulsante <b>Condividi</b> (quadrato con la freccia) e poi <b>Aggiungi alla schermata Home</b>. " +
+      "Se hai aperto il link da Telegram, tocca prima i tre puntini e scegli <b>Apri in Safari</b>.";
+    bar.style.display = "block";
+  }
+})();
+</script><body>
 <main>
 <h1><span>Interpelli</span> Friuli Venezia Giulia</h1>
 <p class="sub" id="agg">Carico i dati…</p>
