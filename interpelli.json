@@ -1,132 +1,6 @@
 {
- "generato": "2026-10-22T19:02:19",
+ "generato": "2026-10-23T11:42:50",
  "interpelli": [
-  {
-   "url": "https://stelliniudine.edu.it/wp-content/uploads/sites/724/annotazione_Interpello-n.2-cl.-conc.-A013-italiano-latino-e-greco.pdf?x41154",
-   "scuola": "Liceo Classico \"J. Stellini\" Udine",
-   "comune": "Udine",
-   "provincia": "UD",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "interpello n. 2 del 21/10/2016 - A013 Italiano, Greco e Latino (18 ore)",
-   "ruolo": "Docenti",
-   "scadenza": "2026-10-22",
-   "trovato_in": "interpelli",
-   "nuovo": true,
-   "tipo": "interpello",
-   "primo_visto": "2026-10-22"
-  },
-  {
-   "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellom-272026-art-14-c-22---anno-scolastico-20262027--cdc-a041-scienze-e-tecnologie-informatiche--18-ore-fino-al-08112026",
-   "scuola": "Itst Kennedy",
-   "comune": "Pordenone",
-   "provincia": "PN",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "INTERPELLO a norma dell’O.M. 27/2026, art. 14, c. 22 - anno scolastico 2026/2027 – c.d.c A041 Scienze e tecnologie informatiche – 18 ore FINO AL 08/11/2026",
-   "ruolo": "Docenti",
-   "scadenza": "2026-11-08",
-   "trovato_in": "Sitemap del sito",
-   "nuovo": true,
-   "tipo": "interpello",
-   "primo_visto": "2026-10-21"
-  },
-  {
-   "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellom-272026-art-14-c-22---anno-scolastico-20262027--cdc-a026-matematica--09-ore-fino-al-06122026",
-   "scuola": "Itst Kennedy",
-   "comune": "Pordenone",
-   "provincia": "PN",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "INTERPELLO a norma dell’O.M. 27/2026, art. 14, c. 22 - anno scolastico 2026/2027 – c.d.c A026 Matematica – 09 ore FINO AL 06/12/2026",
-   "ruolo": "Docenti",
-   "scadenza": "2026-12-06",
-   "trovato_in": "Sitemap del sito",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-10-17"
-  },
-  {
-   "url": "https://www.dijak.edu.it/documento/individuazione-personale-ata-2026-27/",
-   "scuola": "Ic San Giacomo-L.Ins.Slov.",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "2026 14 Sep 00028/2026 INDIVIDUAZIONE PERSONALE ATA 2026-27 INDIVIDUAZIONE PERSONALE ATA 2026-27",
-   "ruolo": "ATA",
-   "scadenza": "2027-08-31",
-   "trovato_in": "Spletna oglasna deska",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-09-14"
-  },
-  {
-   "url": "https://www.leomajor.edu.it/pagine/interpello-classe-di-concorso-a013---discipline-letterarie",
-   "scuola": "I.I.S. \"G. Leopardi-E. Majorana\"",
-   "comune": "Pordenone",
-   "provincia": "PN",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "INTERPELLO CLASSE DI CONCORSO A013 - DISCIPLINE LETTERARIE",
-   "ruolo": "Docenti",
-   "scadenza": null,
-   "trovato_in": "Sitemap del sito",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-10-17"
-  },
-  {
-   "url": "https://www.ic-divisionejulia.edu.it/pagine/interpello-primaria-comune-24-ore",
-   "scuola": "Ist. Compr. Divisione Julia",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "INTERPELLO PRIMARIA COMUNE 24 ore",
-   "ruolo": "Docenti",
-   "scadenza": null,
-   "trovato_in": "Sitemap del sito",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-10-17"
-  },
-  {
-   "url": "https://www.ic-divisionejulia.edu.it/pagine/urgente-interpello-primaria-sostegno-22-ore",
-   "scuola": "Ist. Compr. Divisione Julia",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "URGENTE INTERPELLO PRIMARIA SOSTEGNO 22 ore",
-   "ruolo": "Sostegno",
-   "scadenza": null,
-   "trovato_in": "Le notizie",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-10-17"
-  },
-  {
-   "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellart-13-c-23-om-882024---anno-scolastico-20262027--cdc-a040-scienze-e-tecnologie-elettriche-ed-elettroniche-1",
-   "scuola": "Itst Kennedy",
-   "comune": "Pordenone",
-   "provincia": "PN",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "INTERPELLO a norma dell’art. 13, c. 23, O.M. 88/2024 - anno scolastico 2026/2027 – C.D.C A040 Scienze e tecnologie elettriche ed elettroniche",
-   "ruolo": "Docenti",
-   "scadenza": null,
-   "trovato_in": "Sitemap del sito",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-10-17"
-  },
-  {
-   "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellart-14-c-22-om-272026---anno-scolastico-20262027--cdc-a042-scienze-e-tecnologie-meccaniche",
-   "scuola": "Itst Kennedy",
-   "comune": "Pordenone",
-   "provincia": "PN",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "INTERPELLO a norma dell’art. 14, c. 22, O.M. 27/2026 - anno scolastico 2026/2027 – c.d.c A042 Scienze e tecnologie meccaniche",
-   "ruolo": "Docenti",
-   "scadenza": null,
-   "trovato_in": "Sitemap del sito",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-10-17"
-  },
   {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/12364/documento/TSIC812008",
    "scuola": "Ist. Compr. San Giovanni",
@@ -142,48 +16,6 @@
    "primo_visto": "2026-10-15"
   },
   {
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/12281/documento/TSIC812008",
-   "scuola": "Ist. Compr. San Giovanni",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "INTERPELLO posto comune primaria fino al 03/02/27 6 ore",
-   "ruolo": "Docenti",
-   "scadenza": "2026-10-23",
-   "trovato_in": "Albo Nuvola (lettura automatica)",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-09-14"
-  },
-  {
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/15461/documento/UDIC843002",
-   "scuola": "Iv - Udine",
-   "comune": "Udine",
-   "provincia": "UD",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "Interpello ai sensi dell’art. 14, comma 22, dell’O.M. n. 27/2026 per il conferimento di 1 supplenza su posto comune - alternativa all’IRC – scuola primaria (M. ",
-   "ruolo": "Docenti",
-   "scadenza": "2026-10-23",
-   "trovato_in": "Albo Nuvola (lettura automatica)",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-09-14"
-  },
-  {
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/15459/documento/UDIC843002",
-   "scuola": "Iv - Udine",
-   "comune": "Udine",
-   "provincia": "UD",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "Interpello ai sensi dell’art. 14, comma 22, dell’O.M. n. 27/2026 per il conferimento di 1 supplenza su posto comune - alternativa all’IRC – scuola primaria (Ada",
-   "ruolo": "Docenti",
-   "scadenza": "2026-10-23",
-   "trovato_in": "Albo Nuvola (lettura automatica)",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-09-14"
-  },
-  {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/22579/documento/GOIC80900L",
    "scuola": "Ic Dante Alighieri - Marco Polo",
    "comune": "San Canzian D'Isonzo",
@@ -191,6 +23,20 @@
    "regione": "Friuli Venezia Giulia",
    "titolo": "RICERCA/INDIVIDUAZIONE PERSONALE PER CONTRATTO A TEMPO DETERMINATO PER IL PROFILO DI DOCENTE SCUOLA INFANZIA POSTO COMUNE AL 02/11/2026 - FLORIT AURORA",
    "ruolo": "Docenti",
+   "scadenza": "2026-10-24",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-09-14"
+  },
+  {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/14807/documento/UDIC82300R",
+   "scuola": "Val Tagliamento - Ampezzo",
+   "comune": "Villa Santina",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO n. 4 – DOCENTE SECONDARIA POSTO SOSTEGNO ADMM - 2 POSTI",
+   "ruolo": "Sostegno",
    "scadenza": "2026-10-24",
    "trovato_in": "Albo Nuvola (lettura automatica)",
    "nuovo": false,
@@ -212,6 +58,20 @@
    "primo_visto": "2026-09-14"
   },
   {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/11042/documento/UDIC81200A",
+   "scuola": "Jacopo Linussio - Angelo Matiz",
+   "comune": "Sutrio",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "AVVISO PUBBLICO (INTERPELLO)\r\nai sensi dell’art. 14, comma 22, dell’O.M. n. 27 del 16 febbraio 2026\r\nReclutamento di docenti per il conferimento di n. 1 supplen",
+   "ruolo": "Docenti",
+   "scadenza": "2026-10-27",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-09-14"
+  },
+  {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/7389/documento/PNCTPPROVI",
    "scuola": "Cpia 1 Pordenone",
    "comune": "Brugnera",
@@ -219,6 +79,20 @@
    "regione": "Friuli Venezia Giulia",
    "titolo": "RIAPERTURA CANDIDATURE AVVISO PUBBLICO PER LA RICERCA DI DOCENTI INTERNI AL CPIA1 DI PORDENONE, INTERNI AD ALTRI ISTITUTI DELLA PROVINCIA ED ESTERNI PER PROGETT",
    "ruolo": "Docenti",
+   "scadenza": "2026-10-28",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-09-14"
+  },
+  {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/18278/documento/UDIC83800E",
+   "scuola": "Lestizza-Talmassons-Mortegliano-Castions",
+   "comune": "Mortegliano",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO PREVENTIVO N.1 PER SUPPLENZE BREVI/BREVISSIME posto comune e sostegno Infanzia e Primaria",
+   "ruolo": "Sostegno",
    "scadenza": "2026-10-28",
    "trovato_in": "Albo Nuvola (lettura automatica)",
    "nuovo": false,
@@ -240,6 +114,20 @@
    "primo_visto": "2026-10-15"
   },
   {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/8611/documento/UDIC80900E",
+   "scuola": "M. Gortani - Comeglians",
+   "comune": "Forni Avoltri",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Interpello docente scuola dell'Infanzia - posto comune - 20 ore/settimanali dal 19/10/2026 al 29/10/2026",
+   "ruolo": "Docenti",
+   "scadenza": "2026-10-29",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-15"
+  },
+  {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/20736/documento/GOIC805009",
    "scuola": "Ist. Compr. Leonardo Da Vinci",
    "comune": "Ronchi Dei Legionari",
@@ -254,6 +142,20 @@
    "primo_visto": "2026-10-15"
   },
   {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/5163/documento/UDIC855008",
+   "scuola": "Don Pierluigi Di Piazza",
+   "comune": "Campoformido",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "deroga al divieto di sostituzione del personale ATA per assenze inferiori a sette giorni (Legge 190/2014) e attivazione immediata di supplenza temporanea sul pr",
+   "ruolo": "ATA",
+   "scadenza": "2026-10-31",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-16"
+  },
+  {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/20744/documento/GOIC805009",
    "scuola": "Ist. Compr. Leonardo Da Vinci",
    "comune": "Ronchi Dei Legionari",
@@ -261,6 +163,20 @@
    "regione": "Friuli Venezia Giulia",
    "titolo": "ANTONIAZZI SONIA: Individuazione collaboratore scolastico per supplenza breve dal 19/10/2026 al 08/11/2026",
    "ruolo": "ATA",
+   "scadenza": "2026-10-31",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-16"
+  },
+  {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/11106/documento/UDIC81200A",
+   "scuola": "Jacopo Linussio - Angelo Matiz",
+   "comune": "Sutrio",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "AVVISO PUBBLICO (INTERPELLO)\r\nai sensi dell’art. 14, comma 22, dell’O.M. n. 27 del 16 febbraio 2026\r\nReclutamento di n. 1 docente per il conferimento di supplen",
+   "ruolo": "Docenti",
    "scadenza": "2026-10-31",
    "trovato_in": "Albo Nuvola (lettura automatica)",
    "nuovo": false,
@@ -280,20 +196,6 @@
    "nuovo": false,
    "tipo": "interpello",
    "primo_visto": "2026-10-16"
-  },
-  {
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/7370/documento/PNCTPPROVI",
-   "scuola": "Cpia 1 Pordenone",
-   "comune": "Brugnera",
-   "provincia": "PN",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "Interpello Nazionale n. 1 docente cdc A028 fino al 01/11/2026",
-   "ruolo": "Docenti",
-   "scadenza": "2026-11-01",
-   "trovato_in": "Albo Nuvola (lettura automatica)",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-09-14"
   },
   {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/7469/documento/UDIC827004",
@@ -361,7 +263,7 @@
    "ruolo": "ATA",
    "scadenza": "2026-11-04",
    "trovato_in": "Albo Nuvola (lettura automatica)",
-   "nuovo": true,
+   "nuovo": false,
    "tipo": "interpello",
    "primo_visto": "2026-10-21"
   },
@@ -380,18 +282,32 @@
    "primo_visto": "2026-10-20"
   },
   {
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/7367/documento/PNCTPPROVI",
-   "scuola": "Cpia 1 Pordenone",
-   "comune": "Brugnera",
-   "provincia": "PN",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/8677/documento/UDIC80900E",
+   "scuola": "M. Gortani - Comeglians",
+   "comune": "Forni Avoltri",
+   "provincia": "UD",
    "regione": "Friuli Venezia Giulia",
-   "titolo": "Interpello Nazionale n. 1 docente cdc A023 fino al 05/11/2026",
+   "titolo": "Interpello n. 1 posto Docente Infanzia posto comune per il 22/10/2026",
    "ruolo": "Docenti",
-   "scadenza": "2026-11-05",
+   "scadenza": "2026-11-04",
    "trovato_in": "Albo Nuvola (lettura automatica)",
    "nuovo": false,
    "tipo": "interpello",
-   "primo_visto": "2026-09-14"
+   "primo_visto": "2026-10-20"
+  },
+  {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/13662/documento/UDIC856004",
+   "scuola": "Pasian Di Prato",
+   "comune": "Pasian Di Prato",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO CDC A028",
+   "ruolo": "Docenti",
+   "scadenza": "2026-11-04",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-20"
   },
   {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/7591/documento/UDIC842006",
@@ -403,7 +319,7 @@
    "ruolo": "Docenti",
    "scadenza": "2026-11-05",
    "trovato_in": "Albo Nuvola (lettura automatica)",
-   "nuovo": true,
+   "nuovo": false,
    "tipo": "interpello",
    "primo_visto": "2026-10-21"
   },
@@ -417,7 +333,7 @@
    "ruolo": "ATA",
    "scadenza": "2026-11-05",
    "trovato_in": "Albo Nuvola (lettura automatica)",
-   "nuovo": true,
+   "nuovo": false,
    "tipo": "interpello",
    "primo_visto": "2026-10-21"
   },
@@ -431,7 +347,63 @@
    "ruolo": "ATA",
    "scadenza": "2026-11-05",
    "trovato_in": "Albo Nuvola (lettura automatica)",
-   "nuovo": true,
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-21"
+  },
+  {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/8696/documento/UDIC80900E",
+   "scuola": "M. Gortani - Comeglians",
+   "comune": "Forni Avoltri",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Interpello per la selezione di personale docente SCUOLA SECONDARIA DI I GRADO POSTO SOSTEGNO disponibile alla presa di servizio immediata",
+   "ruolo": "Sostegno",
+   "scadenza": "2026-11-05",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-21"
+  },
+  {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/8693/documento/UDIC80900E",
+   "scuola": "M. Gortani - Comeglians",
+   "comune": "Forni Avoltri",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Interpello per la selezione di personale docente SCUOLA PRIMARIA POSTO SOSTEGNO disponibile alla presa di servizio immediata",
+   "ruolo": "Sostegno",
+   "scadenza": "2026-11-05",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-21"
+  },
+  {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/8691/documento/UDIC80900E",
+   "scuola": "M. Gortani - Comeglians",
+   "comune": "Forni Avoltri",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Interpello per la selezione di personale docente SCUOLA PRIMARIA disponibile alla presa di servizio immediata",
+   "ruolo": "Docenti",
+   "scadenza": "2026-11-05",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-21"
+  },
+  {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/8690/documento/UDIC80900E",
+   "scuola": "M. Gortani - Comeglians",
+   "comune": "Forni Avoltri",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Interpello per la selezione di personale docente SCUOLA DELL’INFANZIA disponibile alla presa di servizio immediata",
+   "ruolo": "Docenti",
+   "scadenza": "2026-11-05",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": false,
    "tipo": "interpello",
    "primo_visto": "2026-10-21"
   },
@@ -450,6 +422,20 @@
    "primo_visto": "2026-10-22"
   },
   {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/18397/documento/UDIC83800E",
+   "scuola": "Lestizza-Talmassons-Mortegliano-Castions",
+   "comune": "Mortegliano",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "AVVISO DISPONIBILITA' - INTERPELLO N. 4 AI SENSI DELL'ART. 14, C. 22 DELL'O.M. N. 27 DEL 16/02/2026 - SCUOLA PRIMARIA ALTERNATIVA ALLA RELIGIONE CATTOLICA 4 H",
+   "ruolo": "Docenti",
+   "scadenza": "2026-11-06",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": true,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-23"
+  },
+  {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/4594/documento/UDIC83300B",
    "scuola": "Palmanova - Destra Torre",
    "comune": "Palmanova",
@@ -464,6 +450,76 @@
    "primo_visto": "2026-10-22"
   },
   {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/20812/documento/GOIC805009",
+   "scuola": "Ist. Compr. Leonardo Da Vinci",
+   "comune": "Ronchi Dei Legionari",
+   "provincia": "GO",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "ZACCARIA DANIELA: Individuazione collaboratore scolastico per supplenza breve dd. 23/10/2026",
+   "ruolo": "ATA",
+   "scadenza": "2026-11-07",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": true,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-23"
+  },
+  {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/8733/documento/UDIC80900E",
+   "scuola": "M. Gortani - Comeglians",
+   "comune": "Forni Avoltri",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Interpello n. 11 posto Docente Infanzia posto comune per il 27/10/2026",
+   "ruolo": "Docenti",
+   "scadenza": "2026-11-07",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": true,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-23"
+  },
+  {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/14958/documento/UDIC82300R",
+   "scuola": "Val Tagliamento - Ampezzo",
+   "comune": "Villa Santina",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO N.5 - 1 POSTO - POSTO COMUNE SCUOLA PRIMARIA - EEEE",
+   "ruolo": "Docenti",
+   "scadenza": "2026-11-07",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": true,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-23"
+  },
+  {
+   "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellom-272026-art-14-c-22---anno-scolastico-20262027--cdc-a041-scienze-e-tecnologie-informatiche--18-ore-fino-al-08112026",
+   "scuola": "Itst Kennedy",
+   "comune": "Pordenone",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO a norma dell’O.M. 27/2026, art. 14, c. 22 - anno scolastico 2026/2027 – c.d.c A041 Scienze e tecnologie informatiche – 18 ore FINO AL 08/11/2026",
+   "ruolo": "Docenti",
+   "scadenza": "2026-11-08",
+   "trovato_in": "Sitemap del sito",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-21"
+  },
+  {
+   "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellom-272026-art-14-c-22---anno-scolastico-20262027--cdc-a026-matematica--09-ore-fino-al-06122026",
+   "scuola": "Itst Kennedy",
+   "comune": "Pordenone",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO a norma dell’O.M. 27/2026, art. 14, c. 22 - anno scolastico 2026/2027 – c.d.c A026 Matematica – 09 ore FINO AL 06/12/2026",
+   "ruolo": "Docenti",
+   "scadenza": "2026-12-06",
+   "trovato_in": "Sitemap del sito",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-17"
+  },
+  {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/12314/documento/TSIC812008",
    "scuola": "Ist. Compr. San Giovanni",
    "comune": "Trieste",
@@ -476,6 +532,34 @@
    "nuovo": false,
    "tipo": "interpello",
    "primo_visto": "2026-09-14"
+  },
+  {
+   "url": "https://www.dijak.edu.it/documento/individuazione-personale-ata-2026-27/",
+   "scuola": "Ic San Giacomo-L.Ins.Slov.",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "2026 14 Sep 00028/2026 INDIVIDUAZIONE PERSONALE ATA 2026-27 INDIVIDUAZIONE PERSONALE ATA 2026-27",
+   "ruolo": "ATA",
+   "scadenza": "2027-08-31",
+   "trovato_in": "Spletna oglasna deska",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-09-14"
+  },
+  {
+   "url": "https://www.leomajor.edu.it/pagine/interpello-classe-di-concorso-a013---discipline-letterarie",
+   "scuola": "I.I.S. \"G. Leopardi-E. Majorana\"",
+   "comune": "Pordenone",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO CLASSE DI CONCORSO A013 - DISCIPLINE LETTERARIE",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Sitemap del sito",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-17"
   },
   {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/7325/documento/UDIC842006",
@@ -518,13 +602,69 @@
    "nuovo": false,
    "tipo": "interpello",
    "primo_visto": "2026-09-14"
+  },
+  {
+   "url": "https://www.ic-divisionejulia.edu.it/pagine/interpello-primaria-comune-24-ore",
+   "scuola": "Ist. Compr. Divisione Julia",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO PRIMARIA COMUNE 24 ore",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Sitemap del sito",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-17"
+  },
+  {
+   "url": "https://www.ic-divisionejulia.edu.it/pagine/urgente-interpello-primaria-sostegno-22-ore",
+   "scuola": "Ist. Compr. Divisione Julia",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "URGENTE INTERPELLO PRIMARIA SOSTEGNO 22 ore",
+   "ruolo": "Sostegno",
+   "scadenza": null,
+   "trovato_in": "Le notizie",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-17"
+  },
+  {
+   "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellart-13-c-23-om-882024---anno-scolastico-20262027--cdc-a040-scienze-e-tecnologie-elettriche-ed-elettroniche-1",
+   "scuola": "Itst Kennedy",
+   "comune": "Pordenone",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO a norma dell’art. 13, c. 23, O.M. 88/2024 - anno scolastico 2026/2027 – C.D.C A040 Scienze e tecnologie elettriche ed elettroniche",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Sitemap del sito",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-17"
+  },
+  {
+   "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellart-14-c-22-om-272026---anno-scolastico-20262027--cdc-a042-scienze-e-tecnologie-meccaniche",
+   "scuola": "Itst Kennedy",
+   "comune": "Pordenone",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO a norma dell’art. 14, c. 22, O.M. 27/2026 - anno scolastico 2026/2027 – c.d.c A042 Scienze e tecnologie meccaniche",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Sitemap del sito",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-17"
   }
  ],
  "pagine_interpelli": [
   {
    "url": "https://www.cnpd.it/pagine/consultare-pagina-interpello",
-   "scuola": "Convitto Cividale-Ic San Pietro",
-   "comune": "San Leonardo",
+   "scuola": "Convitto Nazionale",
+   "comune": "San Pietro Al Natisone",
    "provincia": "UD",
    "regione": "Friuli Venezia Giulia",
    "titolo": "Consultare pagina INTERPELLO",
@@ -700,6 +840,19 @@
    "tipo": "candidatura libera"
   },
   {
+   "url": "https://iccodroipo.edu.it/servizio/invio-mad/",
+   "scuola": "Codroipo",
+   "comune": "Codroipo",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Partecipazione Interpelli",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Pagina iniziale",
+   "nuovo": true,
+   "tipo": "candidatura libera"
+  },
+  {
    "url": "https://cpiapordenone.edu.it/servizio/interpelli/",
    "scuola": "Cpia 1 Pordenone",
    "comune": "Brugnera",
@@ -719,6 +872,19 @@
    "provincia": "UD",
    "regione": "Friuli Venezia Giulia",
    "titolo": "Interpello nazionale",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Pagina iniziale",
+   "nuovo": true,
+   "tipo": "candidatura libera"
+  },
+  {
+   "url": "https://istitutocomprensivopozzuolodelfriuli.edu.it/servizio/invio-mad/",
+   "scuola": "Don Pierluigi Di Piazza",
+   "comune": "Campoformido",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Interpelli (ex Mad)",
    "ruolo": "Docenti",
    "scadenza": null,
    "trovato_in": "Pagina iniziale",
@@ -804,6 +970,32 @@
    "tipo": "candidatura libera"
   },
   {
+   "url": "https://icfontanafredda.edu.it/servizio/invio-mad/",
+   "scuola": "Ic Fontanafredda\"R.L.Montalcini",
+   "comune": "Fontanafredda",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Interpelli (ex Mad)",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Pagina iniziale",
+   "nuovo": true,
+   "tipo": "candidatura libera"
+  },
+  {
+   "url": "https://comprensivosanvito.edu.it/servizio/invio-mad/",
+   "scuola": "Ic S.Vito Al Tagliamen.\"M.Hack\"",
+   "comune": "San Vito Al Tagliamento",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Interpelli (ex Mad)",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Pagina iniziale",
+   "nuovo": true,
+   "tipo": "candidatura libera"
+  },
+  {
    "url": "https://www.iczoppola.edu.it/home/servizio/interpelli-ex-mad/",
    "scuola": "Ic Zoppola",
    "comune": "Zoppola",
@@ -862,6 +1054,19 @@
    "provincia": "UD",
    "regione": "Friuli Venezia Giulia",
    "titolo": "interpelli supplenze",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Sitemap del sito",
+   "nuovo": true,
+   "tipo": "candidatura libera"
+  },
+  {
+   "url": "https://icdantetrieste.edu.it/servizio/interpelli-ex-mad/",
+   "scuola": "Ist. Compr. Dante Alighieri",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "interpelli ex mad",
    "ruolo": "Docenti",
    "scadenza": null,
    "trovato_in": "Sitemap del sito",
@@ -999,6 +1204,32 @@
    "tipo": "candidatura libera"
   },
   {
+   "url": "https://iclinussiomatiz.edu.it/servizio/invio-mad/",
+   "scuola": "Jacopo Linussio - Angelo Matiz",
+   "comune": "Sutrio",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Interpelli (ex Mad)",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Pagina iniziale",
+   "nuovo": true,
+   "tipo": "candidatura libera"
+  },
+  {
+   "url": "https://iclestizza-talmassons-mortegliano-castions.edu.it/servizio/invio-mad/",
+   "scuola": "Lestizza-Talmassons-Mortegliano-Castions",
+   "comune": "Mortegliano",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Interpelli (ex Mad)",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Pagina iniziale",
+   "nuovo": true,
+   "tipo": "candidatura libera"
+  },
+  {
    "url": "https://stelliniudine.edu.it/servizio/interpelli-per-incarichi-e-supplenze-a-s-2026-27/",
    "scuola": "Liceo Classico \"J. Stellini\" Udine",
    "comune": "Udine",
@@ -1012,6 +1243,19 @@
    "tipo": "candidatura libera"
   },
   {
+   "url": "https://iccomeglians.edu.it/servizio/invio-mad/",
+   "scuola": "M. Gortani - Comeglians",
+   "comune": "Forni Avoltri",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Interpelli (ex Mad)",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Pagina iniziale",
+   "nuovo": true,
+   "tipo": "candidatura libera"
+  },
+  {
    "url": "https://www.liceomonfalcone.it/post.php?id=7f1de29e6da19d22b51c68001e7e0e54",
    "scuola": "Michelangelo Buonarroti",
    "comune": "Monfalcone",
@@ -1021,6 +1265,19 @@
    "ruolo": "Docenti",
    "scadenza": null,
    "trovato_in": "Personale scolastico",
+   "nuovo": true,
+   "tipo": "candidatura libera"
+  },
+  {
+   "url": "https://6icudine.edu.it/servizio/invio-mad/",
+   "scuola": "Palazzolo - Rivignano Teor",
+   "comune": "Rivignano Teor",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Invio Mad – Interpelli",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Pagina iniziale",
    "nuovo": true,
    "tipo": "candidatura libera"
   },
@@ -1047,6 +1304,19 @@
    "ruolo": "Docenti",
    "scadenza": null,
    "trovato_in": "Pagina iniziale",
+   "nuovo": true,
+   "tipo": "candidatura libera"
+  },
+  {
+   "url": "https://icpasiandiprato.edu.it/servizio/https-nuvola-madisoft-it-mad-udic856004-interpelliinvio-mad/",
+   "scuola": "Pasian Di Prato",
+   "comune": "Pasian Di Prato",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "https nuvola madisoft it mad udic856004 interpelliinvio mad",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Sitemap del sito",
    "nuovo": true,
    "tipo": "candidatura libera"
   },
@@ -1090,20 +1360,40 @@
    "tipo": "candidatura libera"
   },
   {
-   "url": "https://6icudine.edu.it/servizio/invio-mad/",
-   "scuola": "Vi - Udine",
-   "comune": "Udine",
+   "url": "https://icvaltagliamento.edu.it/wp-content/uploads/sites/515/RIAPERTURA-TERMINI_INTERPELLO_PRI.pdf?x81469",
+   "scuola": "Val Tagliamento - Ampezzo",
+   "comune": "Villa Santina",
    "provincia": "UD",
    "regione": "Friuli Venezia Giulia",
-   "titolo": "Invio Mad – Interpelli",
+   "titolo": "Avviso riapertura interpello.",
    "ruolo": "Docenti",
    "scadenza": null,
-   "trovato_in": "Pagina iniziale",
+   "trovato_in": "riapertura dei termini dellinterpello re",
    "nuovo": true,
    "tipo": "candidatura libera"
   }
  ],
  "albi_esterni": [
+  {
+   "scuola": "Ist. Compr. Dante Alighieri",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSIC80800L/1/IN_PUBBLICAZIONE/0/show",
+   "sito": "https://www.icdantetrieste.edu.it/"
+  },
+  {
+   "scuola": "Don Pierluigi Di Piazza",
+   "comune": "Campoformido",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo Online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC855008/5/IN_PUBBLICAZIONE/0/show",
+   "sito": "https://istitutocomprensivopozzuolodelfriuli.edu.it/"
+  },
   {
    "scuola": "Cividale Del Friuli",
    "comune": "Torreano",
@@ -1113,6 +1403,36 @@
    "etichetta": "Albo Online",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC851001/1/IN_PUBBLICAZIONE/0/show",
    "sito": "https://www.iccividale.edu.it/"
+  },
+  {
+   "scuola": "Palazzolo - Rivignano Teor",
+   "comune": "Rivignano Teor",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC85800Q/5/",
+   "sito": "https://www.6icudine.gov.it/"
+  },
+  {
+   "scuola": "Jacopo Linussio - Angelo Matiz",
+   "comune": "Sutrio",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC81200A/1",
+   "sito": "https://www.iclinussiomatiz.edu.it/"
+  },
+  {
+   "scuola": "Lestizza-Talmassons-Mortegliano-Castions",
+   "comune": "Mortegliano",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC83800E/5/IN_PUBBLICAZIONE/0/show",
+   "sito": "https://iclestizza-talmassons-mortegliano-castions.edu.it/"
   },
   {
    "scuola": "I.C. Di Lingua Slovena -Gorizia",
@@ -1125,14 +1445,24 @@
    "sito": "https://www.icgorizia.net/"
   },
   {
-   "scuola": "Ziga Zois-L.Ins.Slovena",
-   "comune": "Trieste",
-   "provincia": "TS",
+   "scuola": "M. Gortani - Comeglians",
+   "comune": "Forni Avoltri",
+   "provincia": "UD",
    "regione": "Friuli Venezia Giulia",
-   "provider": "Spaggiari",
-   "etichetta": "",
-   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=TSIT0003",
-   "sito": "https://www.zigazois.edu.it/"
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC80900E/1",
+   "sito": "https://iccomeglians.edu.it/"
+  },
+  {
+   "scuola": "Codroipo",
+   "comune": "Codroipo",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo Online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC849001/5",
+   "sito": "https://www.iccodroipo.it/"
   },
   {
    "scuola": "Ic Opicina-Opcine-L.Ins.Slov.",
@@ -1145,6 +1475,16 @@
    "sito": "https://www.vsopcine.it/"
   },
   {
+   "scuola": "Ziga Zois-L.Ins.Slovena",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "",
+   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=TSIT0003",
+   "sito": "https://www.zigazois.edu.it/"
+  },
+  {
    "scuola": "Pascoli Giovanni",
    "comune": "Cormons",
    "provincia": "GO",
@@ -1155,6 +1495,46 @@
    "sito": "https://iccormons.it/"
   },
   {
+   "scuola": "Pasian Di Prato",
+   "comune": "Pasian Di Prato",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo Online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC856004/1",
+   "sito": "https://www.icpasiandiprato.edu.it/"
+  },
+  {
+   "scuola": "Val Tagliamento - Ampezzo",
+   "comune": "Villa Santina",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Vai all’Albo Online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC82300R/1",
+   "sito": "https://www.icvaltagliamento.it/"
+  },
+  {
+   "scuola": "Majano E Forgaria - Buja",
+   "comune": "Majano",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC85800Q/5/",
+   "sito": "https://www.6icudine.gov.it/"
+  },
+  {
+   "scuola": "Ic S.Vito Al Tagliamen.\"M.Hack\"",
+   "comune": "San Vito Al Tagliamento",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "Albo online",
+   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=PNME0025",
+   "sito": "https://comprensivosanvito.edu.it/"
+  },
+  {
    "scuola": "I.S.I.S. \"S. Pertini\" Monfalcone",
    "comune": "Monfalcone",
    "provincia": "GO",
@@ -1163,6 +1543,16 @@
    "etichetta": "Albo Online",
    "url": "https://web.spaggiari.eu/sdg2/AlboOnline/GOII0006",
    "sito": "https://www.isispertini.edu.it/"
+  },
+  {
+   "scuola": "Ic Fontanafredda\"R.L.Montalcini",
+   "comune": "Fontanafredda",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/PNIC81100E/5/IN_PUBBLICAZIONE/0/show",
+   "sito": "https://www.icfontanafredda.edu.it/"
   },
   {
    "scuola": "Randaccio Giovanni",
@@ -1185,16 +1575,6 @@
    "sito": "https://paschinilinussio.edu.it/"
   },
   {
-   "scuola": "Guglielmo Oberdan",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Spaggiari",
-   "etichetta": "Indizione+assemblea+sindacale+Trieste+-+04.11.2026.pdf",
-   "url": "https://cspace.spaggiari.eu/pub/TSLS0002/Albo Sindacale/AlboSindacale/Ottobre 2026/Indizione+assemblea+sindacale+Trieste+-+04.11.2026.pdf",
-   "sito": "https://www.liceo-oberdan.edu.it/"
-  },
-  {
    "scuola": "Don Lorenzo Milani - Aquileia",
    "comune": "Fiumicello Villa Vicentina",
    "provincia": "UD",
@@ -1203,6 +1583,16 @@
    "etichetta": "Albo On Line",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC84600D/1",
    "sito": "https://icaquileia.edu.it/"
+  },
+  {
+   "scuola": "Guglielmo Oberdan",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "Indaginesubenesserelavorativo.pdf",
+   "url": "https://cspace.spaggiari.eu/pub/TSLS0002/Albo Sindacale/AlboSindacale/Ottobre 2026/Indaginesubenesserelavorativo.pdf",
+   "sito": "https://www.liceo-oberdan.edu.it/"
   },
   {
    "scuola": "Palmanova - Destra Torre",
@@ -1271,7 +1661,7 @@
    "regione": "Friuli Venezia Giulia",
    "provider": "Spaggiari",
    "etichetta": "Visualizza allegato",
-   "url": "https://web.spaggiari.eu/sdg2/Documenti/BachecaCvv/PNME0017/3hcu0r9qq4",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/BachecaCvv/PNME0017/d5sd73dvju",
    "sito": "https://www.icporcia.edu.it/"
   },
   {
@@ -1315,6 +1705,16 @@
    "sito": "https://2icudine.edu.it/"
   },
   {
+   "scuola": "Ist. Compr. Valmaura",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSIC81100C/5/IN_PUBBLICAZIONE/0/show",
+   "sito": "https://www.icvalmaura.edu.it/"
+  },
+  {
    "scuola": "I.C.Doberdo' In Lingua Slovena",
    "comune": "Savogna D'Isonzo",
    "provincia": "GO",
@@ -1333,16 +1733,6 @@
    "etichetta": "Albo online",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/GOIC805009/1",
    "sito": "https://icdavinci.goiss.it/"
-  },
-  {
-   "scuola": "Ist. Compr. Valmaura",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Nuvola",
-   "etichetta": "Albo online",
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSIC81100C/5/IN_PUBBLICAZIONE/0/show",
-   "sito": "https://www.icvalmaura.edu.it/"
   },
   {
    "scuola": "\"Celso Macor\"",
@@ -1375,16 +1765,6 @@
    "sito": "https://www.ictolmezzo.it/"
   },
   {
-   "scuola": "Da Vinci - Carli - De Sandrinelli",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Nuvola",
-   "etichetta": "Albo On Line",
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSIS001002/1",
-   "sito": "https://www.davincicarli.edu.it/"
-  },
-  {
    "scuola": "Antonio Coceani - Pavia Di U",
    "comune": "Buttrio",
    "provincia": "UD",
@@ -1393,6 +1773,16 @@
    "etichetta": "Albo online",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC826008/1/IN_PUBBLICAZIONE/0/show",
    "sito": "https://www.icpaviadiudine.edu.it/"
+  },
+  {
+   "scuola": "Da Vinci - Carli - De Sandrinelli",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo On Line",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSIS001002/1",
+   "sito": "https://www.davincicarli.edu.it/"
   },
   {
    "scuola": "Ic Aurisina-Nabrezina-L.Ins.Slo",
@@ -1625,6 +2015,16 @@
    "sito": "https://5icudine.edu.it/"
   },
   {
+   "scuola": "Isis Galilei-Cossar",
+   "comune": "Gorizia",
+   "provincia": "GO",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "ALBO ONLINE",
+   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=GOII0002",
+   "sito": "https://www.isisgo.it/"
+  },
+  {
    "scuola": "Liceo Scientifico \"N. Copernico\" Udine",
    "comune": "Udine",
    "provincia": "UD",
@@ -1635,14 +2035,14 @@
    "sito": "https://www.liceocopernico.edu.it/"
   },
   {
-   "scuola": "Isis Galilei-Cossar",
-   "comune": "Gorizia",
-   "provincia": "GO",
+   "scuola": "Uccellis",
+   "comune": "Udine",
+   "provincia": "UD",
    "regione": "Friuli Venezia Giulia",
    "provider": "Spaggiari",
-   "etichetta": "ALBO ONLINE",
-   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=GOII0002",
-   "sito": "https://www.isisgo.it/"
+   "etichetta": "Albo Online",
+   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=UDEF0002",
+   "sito": "https://www.educandatouccellis.edu.it/"
   },
   {
    "scuola": "Liceo Artistico \"G. Sello \" Ud",
@@ -1655,6 +2055,16 @@
    "sito": "https://www.arteudine.edu.it/"
   },
   {
+   "scuola": "Liceo Scientifico \"G. Marinelli\" Udine",
+   "comune": "Udine",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "Albo Online",
+   "url": "https://web.spaggiari.eu/sdg2/AlboOnline/UDLS0002",
+   "sito": "https://www.liceomarinelli.edu.it/"
+  },
+  {
    "scuola": "Liceo Classico \"J. Stellini\" Udine",
    "comune": "Udine",
    "provincia": "UD",
@@ -1663,6 +2073,16 @@
    "etichetta": "Albo online",
    "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=udlg0001&referer=http://www.stelliniudine.edu.it/",
    "sito": "https://www.stelliniudine.edu.it/"
+  },
+  {
+   "scuola": "Istituto Magistrale Uccellis",
+   "comune": "Udine",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "Albo Online",
+   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=UDEF0002",
+   "sito": "https://www.educandatouccellis.edu.it/"
   },
   {
    "scuola": "Isis \"P.Sarpi\"",
@@ -1755,14 +2175,14 @@
    "sito": "https://www.istitutoflora.edu.it/"
   },
   {
-   "scuola": "Francesco Petrarca",
-   "comune": "Trieste",
-   "provincia": "TS",
+   "scuola": "Educandato Uccellis",
+   "comune": "Udine",
+   "provincia": "UD",
    "regione": "Friuli Venezia Giulia",
-   "provider": "Nuvola",
-   "etichetta": "Albo online",
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSPC02000N/1",
-   "sito": "https://www.liceopetrarcats.edu.it/"
+   "provider": "Spaggiari",
+   "etichetta": "Albo Online",
+   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=UDEF0002",
+   "sito": "https://www.educandatouccellis.edu.it/"
   },
   {
    "scuola": "A.M. Slomsek-L.Ins.Slovena",
@@ -1775,6 +2195,16 @@
    "sito": "https://www.slomsek.edu.it/"
   },
   {
+   "scuola": "Francesco Petrarca",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSPC02000N/1",
+   "sito": "https://www.liceopetrarcats.edu.it/"
+  },
+  {
    "scuola": "Isis Carducci - Dante",
    "comune": "Trieste",
    "provincia": "TS",
@@ -1785,5 +2215,31 @@
    "sito": "https://www.carduccidante.edu.it/"
   }
  ],
- "non_raggiungibili": []
+ "non_raggiungibili": [
+  {
+   "scuola": "Ist. Compr. Altipiano",
+   "sito": "https://www.icaltipiano.it/",
+   "motivo": "non raggiungibile (connessione fallita)"
+  },
+  {
+   "scuola": "Tina Modotti Di Premariacco",
+   "sito": "https://www.icpremariacco.it/",
+   "motivo": "non raggiungibile (connessione fallita)"
+  },
+  {
+   "scuola": "Ist. Comp. Gemona Del Friuli",
+   "sito": "https://www.icgemona.gov.it/",
+   "motivo": "non raggiungibile (connessione fallita)"
+  },
+  {
+   "scuola": "Istituto Superiore \"E.Mattei\" Latisana",
+   "sito": "https://www.isislatisana.it/",
+   "motivo": "non raggiungibile (timeout)"
+  },
+  {
+   "scuola": "Ist. Compr. Rainer Maria Rilke",
+   "sito": "https://www.istduino.wordpress.com/",
+   "motivo": "non raggiungibile (certificato SSL non valido)"
+  }
+ ]
 }
