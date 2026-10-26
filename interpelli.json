@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-26T13:50:07",
+ "generato": "2026-10-26T20:18:34",
  "interpelli": [
   {
    "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellom-272026-art-14-c-22---anno-scolastico-20262027--cdc-a041-scienze-e-tecnologie-informatiche--18-ore-fino-al-08112026",
@@ -574,6 +574,20 @@
    "nuovo": false,
    "tipo": "interpello",
    "primo_visto": "2026-10-23"
+  },
+  {
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/8483/documento/UDIC83200G",
+   "scuola": "Gonars",
+   "comune": "Gonars",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO PER INDIVIDUAZIONE DOCENTI PRIMARIA.",
+   "ruolo": "Docenti",
+   "scadenza": "2026-11-10",
+   "trovato_in": "Albo Nuvola (lettura automatica)",
+   "nuovo": true,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-26"
   },
   {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/20834/documento/GOIC805009",
