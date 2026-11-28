@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-27T17:10:22",
+ "generato": "2026-11-28T01:47:38",
  "interpelli": [
   {
    "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellom-272026-art-14-c-22---anno-scolastico-20262027--cdc-a026-matematica--09-ore-fino-al-06122026",
@@ -70,20 +70,6 @@
    "nuovo": false,
    "tipo": "interpello",
    "primo_visto": "2026-10-17"
-  },
-  {
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/9102/documento/UDIC80900E",
-   "scuola": "M. Gortani - Comeglians",
-   "comune": "Forni Avoltri",
-   "provincia": "UD",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "Interpello  n. 19 posto Docente Primaria posto comune dal 24 al 27/11/2026",
-   "ruolo": "Docenti",
-   "scadenza": "2026-11-27",
-   "trovato_in": "Albo Nuvola (lettura automatica)",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-11-23"
   },
   {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/21263/documento/GOIC805009",
@@ -361,7 +347,7 @@
    "ruolo": "Docenti",
    "scadenza": "2026-12-11",
    "trovato_in": "Albo Nuvola (lettura automatica)",
-   "nuovo": true,
+   "nuovo": false,
    "tipo": "interpello",
    "primo_visto": "2026-11-26"
   },
@@ -375,7 +361,7 @@
    "ruolo": "Sostegno",
    "scadenza": "2026-12-11",
    "trovato_in": "Albo Nuvola (lettura automatica)",
-   "nuovo": true,
+   "nuovo": false,
    "tipo": "interpello",
    "primo_visto": "2026-11-26"
   },
@@ -417,7 +403,7 @@
    "ruolo": "Docenti",
    "scadenza": "2026-12-18",
    "trovato_in": "Albo Nuvola (lettura automatica)",
-   "nuovo": true,
+   "nuovo": false,
    "tipo": "interpello",
    "primo_visto": "2026-11-26"
   }
