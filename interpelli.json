@@ -1,76 +1,6 @@
 {
- "generato": "2026-11-28T01:47:38",
+ "generato": "2026-11-28T15:09:20",
  "interpelli": [
-  {
-   "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellom-272026-art-14-c-22---anno-scolastico-20262027--cdc-a026-matematica--09-ore-fino-al-06122026",
-   "scuola": "Itst Kennedy",
-   "comune": "Pordenone",
-   "provincia": "PN",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "INTERPELLO a norma dell’O.M. 27/2026, art. 14, c. 22 - anno scolastico 2026/2027 – c.d.c A026 Matematica – 09 ore FINO AL 06/12/2026",
-   "ruolo": "Docenti",
-   "scadenza": "2026-12-06",
-   "trovato_in": "Sitemap del sito",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-10-17"
-  },
-  {
-   "url": "https://www.ic-divisionejulia.edu.it/pagine/interpello-primaria-comune-24-ore",
-   "scuola": "Ist. Compr. Divisione Julia",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "INTERPELLO PRIMARIA COMUNE 24 ore",
-   "ruolo": "Docenti",
-   "scadenza": null,
-   "trovato_in": "Sitemap del sito",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-10-17"
-  },
-  {
-   "url": "https://www.ic-divisionejulia.edu.it/pagine/interpello-am2b-inglese-scuola-secondaria-di-primo-grado",
-   "scuola": "Ist. Compr. Divisione Julia",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "Interpello AM2B inglese scuola secondaria di primo grado",
-   "ruolo": "Docenti",
-   "scadenza": null,
-   "trovato_in": "Sitemap del sito",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-11-21"
-  },
-  {
-   "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellart-13-c-23-om-882024---anno-scolastico-20262027--cdc-a040-scienze-e-tecnologie-elettriche-ed-elettroniche-1",
-   "scuola": "Itst Kennedy",
-   "comune": "Pordenone",
-   "provincia": "PN",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "INTERPELLO a norma dell’art. 13, c. 23, O.M. 88/2024 - anno scolastico 2026/2027 – C.D.C A040 Scienze e tecnologie elettriche ed elettroniche",
-   "ruolo": "Docenti",
-   "scadenza": null,
-   "trovato_in": "Sitemap del sito",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-10-17"
-  },
-  {
-   "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellart-14-c-22-om-272026---anno-scolastico-20262027--cdc-a042-scienze-e-tecnologie-meccaniche",
-   "scuola": "Itst Kennedy",
-   "comune": "Pordenone",
-   "provincia": "PN",
-   "regione": "Friuli Venezia Giulia",
-   "titolo": "INTERPELLO a norma dell’art. 14, c. 22, O.M. 27/2026 - anno scolastico 2026/2027 – c.d.c A042 Scienze e tecnologie meccaniche",
-   "ruolo": "Docenti",
-   "scadenza": null,
-   "trovato_in": "Sitemap del sito",
-   "nuovo": false,
-   "tipo": "interpello",
-   "primo_visto": "2026-10-17"
-  },
   {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/21263/documento/GOIC805009",
    "scuola": "Ist. Compr. Leonardo Da Vinci",
@@ -210,6 +140,20 @@
    "nuovo": false,
    "tipo": "interpello",
    "primo_visto": "2026-11-21"
+  },
+  {
+   "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellom-272026-art-14-c-22---anno-scolastico-20262027--cdc-a026-matematica--09-ore-fino-al-06122026",
+   "scuola": "Itst Kennedy",
+   "comune": "Pordenone",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO a norma dell’O.M. 27/2026, art. 14, c. 22 - anno scolastico 2026/2027 – c.d.c A026 Matematica – 09 ore FINO AL 06/12/2026",
+   "ruolo": "Docenti",
+   "scadenza": "2026-12-06",
+   "trovato_in": "Sitemap del sito",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-17"
   },
   {
    "url": "https://nuvola.madisoft.it/bacheca-digitale/12499/documento/TSIC812008",
@@ -406,6 +350,62 @@
    "nuovo": false,
    "tipo": "interpello",
    "primo_visto": "2026-11-26"
+  },
+  {
+   "url": "https://www.ic-divisionejulia.edu.it/pagine/interpello-primaria-comune-24-ore",
+   "scuola": "Ist. Compr. Divisione Julia",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO PRIMARIA COMUNE 24 ore",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Sitemap del sito",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-17"
+  },
+  {
+   "url": "https://www.ic-divisionejulia.edu.it/pagine/interpello-am2b-inglese-scuola-secondaria-di-primo-grado",
+   "scuola": "Ist. Compr. Divisione Julia",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "Interpello AM2B inglese scuola secondaria di primo grado",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Sitemap del sito",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-11-21"
+  },
+  {
+   "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellart-13-c-23-om-882024---anno-scolastico-20262027--cdc-a040-scienze-e-tecnologie-elettriche-ed-elettroniche-1",
+   "scuola": "Itst Kennedy",
+   "comune": "Pordenone",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO a norma dell’art. 13, c. 23, O.M. 88/2024 - anno scolastico 2026/2027 – C.D.C A040 Scienze e tecnologie elettriche ed elettroniche",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Sitemap del sito",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-17"
+  },
+  {
+   "url": "https://itstkennedy.edu.it/pagine/interpello-a-norma-dellart-14-c-22-om-272026---anno-scolastico-20262027--cdc-a042-scienze-e-tecnologie-meccaniche",
+   "scuola": "Itst Kennedy",
+   "comune": "Pordenone",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "titolo": "INTERPELLO a norma dell’art. 14, c. 22, O.M. 27/2026 - anno scolastico 2026/2027 – c.d.c A042 Scienze e tecnologie meccaniche",
+   "ruolo": "Docenti",
+   "scadenza": null,
+   "trovato_in": "Sitemap del sito",
+   "nuovo": false,
+   "tipo": "interpello",
+   "primo_visto": "2026-10-17"
   }
  ],
  "pagine_interpelli": [
@@ -1185,16 +1185,6 @@
    "sito": "https://www.icgorizia.net/"
   },
   {
-   "scuola": "M. Gortani - Comeglians",
-   "comune": "Forni Avoltri",
-   "provincia": "UD",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Nuvola",
-   "etichetta": "Albo online",
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC80900E/1",
-   "sito": "https://iccomeglians.edu.it/"
-  },
-  {
    "scuola": "Codroipo",
    "comune": "Codroipo",
    "provincia": "UD",
@@ -1203,6 +1193,16 @@
    "etichetta": "Albo Online",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC849001/5",
    "sito": "https://www.iccodroipo.it/"
+  },
+  {
+   "scuola": "M. Gortani - Comeglians",
+   "comune": "Forni Avoltri",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC80900E/1",
+   "sito": "https://iccomeglians.edu.it/"
   },
   {
    "scuola": "Ic Opicina-Opcine-L.Ins.Slov.",
@@ -1245,6 +1245,16 @@
    "sito": "https://www.icvaltagliamento.it/"
   },
   {
+   "scuola": "Majano E Forgaria - Buja",
+   "comune": "Majano",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC85800Q/5/",
+   "sito": "https://www.6icudine.gov.it/"
+  },
+  {
    "scuola": "Ic S.Vito Al Tagliamen.\"M.Hack\"",
    "comune": "San Vito Al Tagliamento",
    "provincia": "PN",
@@ -1265,16 +1275,6 @@
    "sito": "https://www.isispertini.edu.it/"
   },
   {
-   "scuola": "Ic Fontanafredda\"R.L.Montalcini",
-   "comune": "Fontanafredda",
-   "provincia": "PN",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Nuvola",
-   "etichetta": "",
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/PNIC81100E/5/IN_PUBBLICAZIONE/0/show",
-   "sito": "https://www.icfontanafredda.edu.it/"
-  },
-  {
    "scuola": "Randaccio Giovanni",
    "comune": "Monfalcone",
    "provincia": "GO",
@@ -1285,6 +1285,26 @@
    "sito": "https://www.icrandaccio.edu.it/"
   },
   {
+   "scuola": "Ic Fontanafredda\"R.L.Montalcini",
+   "comune": "Fontanafredda",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/PNIC81100E/5/IN_PUBBLICAZIONE/0/show",
+   "sito": "https://www.icfontanafredda.edu.it/"
+  },
+  {
+   "scuola": "Paschini - Linussio",
+   "comune": "Tolmezzo",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "https://web.spaggiari.eu/sdg2/Trasparenza?idCategoria=30007",
+   "url": "https://web.spaggiari.eu/sdg2/Trasparenza?idCategoria=30007",
+   "sito": "https://paschinilinussio.edu.it/"
+  },
+  {
    "scuola": "Don Lorenzo Milani - Aquileia",
    "comune": "Fiumicello Villa Vicentina",
    "provincia": "UD",
@@ -1293,6 +1313,16 @@
    "etichetta": "Albo On Line",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC84600D/1",
    "sito": "https://icaquileia.edu.it/"
+  },
+  {
+   "scuola": "Ic F.U. Della Torre - L. Verni",
+   "comune": "Farra D'Isonzo",
+   "provincia": "GO",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "Albo online",
+   "url": "https://web.spaggiari.eu/sdg2/AlboOnline/GOME0013",
+   "sito": "https://www.icgorizia2.goiss.it/"
   },
   {
    "scuola": "Guglielmo Oberdan",
@@ -1375,16 +1405,6 @@
    "sito": "https://www.icporcia.edu.it/"
   },
   {
-   "scuola": "Ic Maniago \"Margherita Hack\"",
-   "comune": "Vivaro",
-   "provincia": "PN",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Nuvola",
-   "etichetta": "qui",
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/PNIC82800X/7/IN_PUBBLICAZIONE/0/show",
-   "sito": "https://www.icmaniago.it/"
-  },
-  {
    "scuola": "Cecilia Deganutti - Latisana",
    "comune": "Latisana",
    "provincia": "UD",
@@ -1393,6 +1413,16 @@
    "etichetta": "Albo online",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC835003/1/IN_PUBBLICAZIONE/0/show",
    "sito": "https://iclatisana.edu.it/"
+  },
+  {
+   "scuola": "Ic Maniago \"Margherita Hack\"",
+   "comune": "Vivaro",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "qui",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/PNIC82800X/7/IN_PUBBLICAZIONE/0/show",
+   "sito": "https://www.icmaniago.it/"
   },
   {
    "scuola": "Ist. Compr. San Giovanni",
@@ -1415,6 +1445,16 @@
    "sito": "https://2icudine.edu.it/"
   },
   {
+   "scuola": "Ist. Compr. Valmaura",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSIC81100C/5/IN_PUBBLICAZIONE/0/show",
+   "sito": "https://www.icvalmaura.edu.it/"
+  },
+  {
    "scuola": "Ist. Compr. Leonardo Da Vinci",
    "comune": "Ronchi Dei Legionari",
    "provincia": "GO",
@@ -1433,16 +1473,6 @@
    "etichetta": "Oglasna deska - Albo online",
    "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=GOME0012&referer=https://vsdoberdob.it/",
    "sito": "https://www.vsdoberdob.edu.it/"
-  },
-  {
-   "scuola": "Ist. Compr. Valmaura",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Nuvola",
-   "etichetta": "Albo online",
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSIC81100C/5/IN_PUBBLICAZIONE/0/show",
-   "sito": "https://www.icvalmaura.edu.it/"
   },
   {
    "scuola": "Ist. Compr. Iqbal Masih",
@@ -1465,16 +1495,6 @@
    "sito": "https://www.ictolmezzo.it/"
   },
   {
-   "scuola": "Da Vinci - Carli - De Sandrinelli",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Nuvola",
-   "etichetta": "Albo On Line",
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSIS001002/1",
-   "sito": "https://www.davincicarli.edu.it/"
-  },
-  {
    "scuola": "Antonio Coceani - Pavia Di U",
    "comune": "Buttrio",
    "provincia": "UD",
@@ -1485,16 +1505,6 @@
    "sito": "https://www.icpaviadiudine.edu.it/"
   },
   {
-   "scuola": "Ic Aurisina-Nabrezina-L.Ins.Slo",
-   "comune": "Sgonico",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Spaggiari",
-   "etichetta": "ALBO ONLINE dal 01/06/2025",
-   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=Tsme0023",
-   "sito": "https://www.vesnabrezina.it/"
-  },
-  {
    "scuola": "Cpia 1 Pordenone",
    "comune": "Brugnera",
    "provincia": "PN",
@@ -1503,6 +1513,26 @@
    "etichetta": "Albo online",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/PNCTPPROVI/1",
    "sito": "https://www.cpiapordenone.edu.it/"
+  },
+  {
+   "scuola": "Da Vinci - Carli - De Sandrinelli",
+   "comune": "Trieste",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo On Line",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/TSIS001002/1",
+   "sito": "https://www.davincicarli.edu.it/"
+  },
+  {
+   "scuola": "Ic Aurisina-Nabrezina-L.Ins.Slo",
+   "comune": "Sgonico",
+   "provincia": "TS",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "ALBO ONLINE dal 01/06/2025",
+   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=Tsme0023",
+   "sito": "https://www.vesnabrezina.it/"
   },
   {
    "scuola": "Ic Dante Alighieri - Marco Polo",
@@ -1525,14 +1555,14 @@
    "sito": "https://www.icbilingue.edu.it/"
   },
   {
-   "scuola": "Is Dante Alighieri",
-   "comune": "Gorizia",
-   "provincia": "GO",
+   "scuola": "I.S.I.S. \"Mattiussi - Pertini\"",
+   "comune": "Pordenone",
+   "provincia": "PN",
    "regione": "Friuli Venezia Giulia",
-   "provider": "Spaggiari",
+   "provider": "Nuvola",
    "etichetta": "Albo online",
-   "url": "https://web.spaggiari.eu/sdg2/AlboOnline/GOII0001",
-   "sito": "https://www.pololicealegorizia.edu.it/"
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/PNTD05000E/1/IN_PUBBLICAZIONE/0/show",
+   "sito": "https://isismattiussipertini.edu.it/"
   },
   {
    "scuola": "Simon Gregorcic (L.Slovena)",
@@ -1555,36 +1585,6 @@
    "sito": "https://www.isisbassafriulana.gov.it/"
   },
   {
-   "scuola": "I.S.I.S. \"Mattiussi - Pertini\"",
-   "comune": "Pordenone",
-   "provincia": "PN",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Nuvola",
-   "etichetta": "Albo online",
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/PNTD05000E/1/IN_PUBBLICAZIONE/0/show",
-   "sito": "https://isismattiussipertini.edu.it/"
-  },
-  {
-   "scuola": "\"Celso Macor\"",
-   "comune": "Romans D'Isonzo",
-   "provincia": "GO",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Spaggiari",
-   "etichetta": "Albo sindacale",
-   "url": "https://web.spaggiari.eu/sdg/app/default/comunicati.php?sede_codice=GOME0004",
-   "sito": "https://icromans.it/"
-  },
-  {
-   "scuola": "Ic Azzano Decimo\"N.Cantarutti\"",
-   "comune": "Azzano Decimo",
-   "provincia": "PN",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Spaggiari",
-   "etichetta": "ALL'ALBO SINDACALE ART. 25 LEGGE 30070",
-   "url": "https://cspace.spaggiari.eu/pub/PNME0004/Albo sindacale/AS_2025_2026/ALL'ALBO SINDACALE ART. 25 LEGGE 30070.pdf",
-   "sito": "https://www.istcompazzanox.edu.it/"
-  },
-  {
    "scuola": "Gonars",
    "comune": "Gonars",
    "provincia": "UD",
@@ -1593,6 +1593,16 @@
    "etichetta": "Albo Online",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC83200G/1",
    "sito": "https://www.icgonars.edu.it/"
+  },
+  {
+   "scuola": "Is Dante Alighieri",
+   "comune": "Gorizia",
+   "provincia": "GO",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "Albo online",
+   "url": "https://web.spaggiari.eu/sdg2/AlboOnline/GOII0001",
+   "sito": "https://www.pololicealegorizia.edu.it/"
   },
   {
    "scuola": "Iv - Udine",
@@ -1605,24 +1615,14 @@
    "sito": "https://4icudine.gov.it/le_scuole/a-zardinicussignacco/"
   },
   {
-   "scuola": "Deganutti",
-   "comune": "Udine",
-   "provincia": "UD",
+   "scuola": "\"Celso Macor\"",
+   "comune": "Romans D'Isonzo",
+   "provincia": "GO",
    "regione": "Friuli Venezia Giulia",
    "provider": "Spaggiari",
-   "etichetta": "https://web.spaggiari.eu/sdg2/Interpelli/UDIT0001",
-   "url": "https://web.spaggiari.eu/sdg2/Interpelli/UDIT0001",
-   "sito": "https://www.itsdeganutti.edu.it/"
-  },
-  {
-   "scuola": "San Daniele Del Friuli",
-   "comune": "Rive D'Arcano",
-   "provincia": "UD",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Argo",
-   "etichetta": "ALBO ONLINE",
-   "url": "https://www.portaleargo.it/albopretorio/online/",
-   "sito": "https://wwwicsandaniele.it/"
+   "etichetta": "Albo sindacale",
+   "url": "https://web.spaggiari.eu/sdg/app/default/comunicati.php?sede_codice=GOME0004",
+   "sito": "https://icromans.it/"
   },
   {
    "scuola": "I. Comprensivo Di Tavagnacco",
@@ -1635,14 +1635,34 @@
    "sito": "https://www.ictavagnacco.edu.it/"
   },
   {
-   "scuola": "Isis \"A. Malignani\" Udine",
+   "scuola": "Ic Azzano Decimo\"N.Cantarutti\"",
+   "comune": "Azzano Decimo",
+   "provincia": "PN",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "ALL'ALBO SINDACALE ART. 25 LEGGE 30070",
+   "url": "https://cspace.spaggiari.eu/pub/PNME0004/Albo sindacale/AS_2025_2026/ALL'ALBO SINDACALE ART. 25 LEGGE 30070.pdf",
+   "sito": "https://www.istcompazzanox.edu.it/"
+  },
+  {
+   "scuola": "San Daniele Del Friuli",
+   "comune": "Rive D'Arcano",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Argo",
+   "etichetta": "ALBO ONLINE",
+   "url": "https://www.portaleargo.it/albopretorio/online/",
+   "sito": "https://wwwicsandaniele.it/"
+  },
+  {
+   "scuola": "Deganutti",
    "comune": "Udine",
    "provincia": "UD",
    "regione": "Friuli Venezia Giulia",
    "provider": "Spaggiari",
-   "etichetta": "Albo online",
-   "url": "https://web.spaggiari.eu/sdg2/AlboOnline/UDII0013",
-   "sito": "https://www.malignani.ud.it/"
+   "etichetta": "https://web.spaggiari.eu/sdg2/Interpelli/UDIT0001",
+   "url": "https://web.spaggiari.eu/sdg2/Interpelli/UDIT0001",
+   "sito": "https://www.itsdeganutti.edu.it/"
   },
   {
    "scuola": "Tarcento",
@@ -1653,6 +1673,16 @@
    "etichetta": "Clicca qui per accedere all’albo on line",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC83000X/1",
    "sito": "https://www.ictarcento.edu.it/"
+  },
+  {
+   "scuola": "Isis \"A. Malignani\" Udine",
+   "comune": "Udine",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Spaggiari",
+   "etichetta": "Albo online",
+   "url": "https://web.spaggiari.eu/sdg2/AlboOnline/UDII0013",
+   "sito": "https://www.malignani.ud.it/"
   },
   {
    "scuola": "Ist. Compr. Tiziana Weiss",
@@ -1765,6 +1795,16 @@
    "sito": "https://www.paolosarpi.edu.it/"
   },
   {
+   "scuola": "Vi - Udine",
+   "comune": "Udine",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC85800Q/5/",
+   "sito": "https://www.6icudine.edu.it/"
+  },
+  {
    "scuola": "Iii - Udine",
    "comune": "Udine",
    "provincia": "UD",
@@ -1775,16 +1815,6 @@
    "sito": "https://www.3icudine.edu.it/"
   },
   {
-   "scuola": "Istituto Comprensivo I - Udine",
-   "comune": "Udine",
-   "provincia": "UD",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Nuvola",
-   "etichetta": "Albo online",
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC84100A/1",
-   "sito": "https://1icudine.edu.it/"
-  },
-  {
    "scuola": "Liceo \"Caterina Percoto\"",
    "comune": "Udine",
    "provincia": "UD",
@@ -1793,6 +1823,16 @@
    "etichetta": "Criteri Interpelli 26-27",
    "url": "https://cspace.spaggiari.eu//pub/UDII0014/2%20SERVIZI/INTERPELLI%202026%2027/2026-27%20criteri%20interpelli.pdf",
    "sito": "https://www.liceopercoto.edu.it/"
+  },
+  {
+   "scuola": "Istituto Comprensivo I - Udine",
+   "comune": "Udine",
+   "provincia": "UD",
+   "regione": "Friuli Venezia Giulia",
+   "provider": "Nuvola",
+   "etichetta": "Albo online",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/UDIC84100A/1",
+   "sito": "https://1icudine.edu.it/"
   },
   {
    "scuola": "Gabriele D'Annunzio",
@@ -1835,14 +1875,14 @@
    "sito": "https://www.istitutoflora.edu.it/"
   },
   {
-   "scuola": "Educandato Uccellis",
-   "comune": "Udine",
-   "provincia": "UD",
+   "scuola": "A.M. Slomsek-L.Ins.Slovena",
+   "comune": "Trieste",
+   "provincia": "TS",
    "regione": "Friuli Venezia Giulia",
    "provider": "Spaggiari",
-   "etichetta": "Albo Online",
-   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=UDEF0002",
-   "sito": "https://www.educandatouccellis.edu.it/"
+   "etichetta": "Albo online",
+   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=TSIM0003",
+   "sito": "https://www.slomsek.edu.it/"
   },
   {
    "scuola": "Francesco Petrarca",
@@ -1855,16 +1895,6 @@
    "sito": "https://www.liceopetrarcats.edu.it/"
   },
   {
-   "scuola": "A.M. Slomsek-L.Ins.Slovena",
-   "comune": "Trieste",
-   "provincia": "TS",
-   "regione": "Friuli Venezia Giulia",
-   "provider": "Spaggiari",
-   "etichetta": "Albo online",
-   "url": "https://web.spaggiari.eu/sdg/app/default/albo_pretorio.php?sede_codice=TSIM0003",
-   "sito": "https://www.slomsek.edu.it/"
-  },
-  {
    "scuola": "Isis Carducci - Dante",
    "comune": "Trieste",
    "provincia": "TS",
@@ -1875,5 +1905,26 @@
    "sito": "https://www.carduccidante.edu.it/"
   }
  ],
- "non_raggiungibili": []
+ "non_raggiungibili": [
+  {
+   "scuola": "Ist. Compr. Altipiano",
+   "sito": "https://www.icaltipiano.it/",
+   "motivo": "non raggiungibile (connessione fallita)"
+  },
+  {
+   "scuola": "Ist. Comp. Gemona Del Friuli",
+   "sito": "https://www.icgemona.gov.it/",
+   "motivo": "non raggiungibile (connessione fallita)"
+  },
+  {
+   "scuola": "Istituto Superiore \"E.Mattei\" Latisana",
+   "sito": "https://www.isislatisana.it/",
+   "motivo": "non raggiungibile (timeout)"
+  },
+  {
+   "scuola": "Ist. Compr. Rainer Maria Rilke",
+   "sito": "https://www.istduino.wordpress.com/",
+   "motivo": "non raggiungibile (certificato SSL non valido)"
+  }
+ ]
 }
